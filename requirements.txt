@@ -1,0 +1,5 @@
+# Diagnóstico e bases do kit. Rodado com Python 3.9.6, pandas 2.3.3 e numpy 2.0.2, em 2026-11-08.
+# A biblioteca de redes neurais, a de modelos de texto e a de gráficos entram na aula que usa cada
+# uma pela primeira vez, com a versão e o Python mínimo.
+pandas
+numpy

@@ -1,0 +1,1801 @@
+id_mensagem,data,canal,texto,assunto
+1,2026-01-01,chat,"por favor, não consigo pagar com cartão. aguardo retorno",pagamento
+2,2026-01-01,chat,"olá, o boleto venceu. é urgente",pagamento
+3,2026-01-01,chat,qual o horário do atendimento. obrigado,outro
+4,2026-01-01,app,"oi, comprei faz 15 dias e nada",atraso
+5,2026-01-01,chat,"boa noite, cobraram duas vezes no cartão?",pagamento
+6,2026-01-01,app,"boa tarde, a transportadora não atualiza o rastreio. preciso de ajuda",atraso
+7,2026-01-01,chat,"oi, a entrega esta atrasada. e urgente",atraso
+8,2026-01-01,chat,"OI, NÃO É SOBRE ENTREGA NEM PAGAMENTO, VOCÊS TÊM VAGA DE EMPREGO!!",outro
+9,2026-01-01,chat,vocês entregam no sábado. obrigado,outro
+10,2026-01-02,chat,"boa noite, o produto veio com defeito",troca
+11,2026-01-02,chat,paguei e o pedido continua aguardando pagamento e o boleto venceu. é urgente,pagamento
+12,2026-01-02,chat,"POR FAVOR, MEU PEDIDO AINDA NAO CHEGOU!!",atraso
+13,2026-01-02,chat,o pedido não saiu para entrega. aguardo retorno,atraso
+14,2026-01-02,chat,"por favor, quero o reembolso da devolução!!",troca
+15,2026-01-02,chat,"olá, cobraram duas vezes no cartão",pagamento
+16,2026-01-02,chat,"oi, era para chegar ontem",atraso
+17,2026-01-02,chat,"por favor, a transportadora nao atualiza o rastreio. obrigado",atraso
+18,2026-01-02,email,comprei faz 14 dias e nada,atraso
+19,2026-01-02,email,"por favor, paguei e o pedido continua aguardando pagamento",pagamento
+20,2026-01-02,app,"boa noite, a transportadora não atualiza o rastreio e a transportadora não atualiza o rastreio!!",atraso
+21,2026-01-02,email,o rastreio está parado faz 7 dias. obrigado,atraso
+22,2026-01-02,chat,"ola, o pedido chegou mas cobraram duas vezes. aguardo retorno",pagamento
+23,2026-01-02,chat,cadê meu pedido. aguardo retorno,atraso
+24,2026-01-03,app,"bom dia, meu pedido ainda não chegou. obrigado",atraso
+25,2026-01-03,email,"bom dia, o pedido não saiu para entrega. preciso de ajuda",atraso
+26,2026-01-03,app,voces vendem para empresa e qual o horario do atendimento. e urgente,outro
+27,2026-01-03,chat,"oi, o prazo de entrega já passou",atraso
+28,2026-01-03,email,"boa noite, o produto chegou quebrado",troca
+29,2026-01-03,email,"OLÁ, QUERO O REEMBOLSO DA DEVOLUÇÃO. AGUARDO RETORNO",troca
+30,2026-01-03,chat,"por favor, o pagamento foi aprovado mas o produto veio com defeito. preciso de ajuda",troca
+31,2026-01-03,email,"boa noite, cobraram duas vezes no cartão. pedido 47868",pagamento
+32,2026-01-03,chat,o pagamento foi aprovado mas o produto veio com defeito. pedido 35312,troca
+33,2026-01-03,chat,meu pedido ainda nao chegou. preciso de ajuda,atraso
+34,2026-01-03,chat,"ola, cade meu pedido!!",atraso
+35,2026-01-03,chat,"oi, o pedido chegou mas cobraram duas vezes",pagamento
+36,2026-01-03,chat,"olá, era para chegar ontem. obrigado",atraso
+37,2026-01-03,chat,"boa tarde, o rastreio está parado faz 14 dias e o pedido não saiu para entrega. pedido 49285",atraso
+38,2026-01-03,app,"OLÁ, COMO FAÇO A TROCA",troca
+39,2026-01-04,app,a transportadora não atualiza o rastreio e a entrega está atrasada. obrigado,atraso
+40,2026-01-04,chat,"OLÁ, O PRODUTO VEIO COM DEFEITO E COMO FAÇO A TROCA!!",troca
+41,2026-01-04,app,"bom dia, a peça não serviu. obrigado",troca
+42,2026-01-04,app,veio um item diferente do que eu pedi. pedido 91755,troca
+43,2026-01-04,chat,"bom dia, quando meu pedido vai chegar!!",atraso
+44,2026-01-04,chat,"por favor, o pedido nao saiu para entrega!!",atraso
+45,2026-01-04,email,"boa noite, veio um item diferente do que eu pedi. preciso de ajuda",troca
+46,2026-01-05,chat,"boa noite, o pagamento foi aprovado mas o produto veio com defeito",troca
+47,2026-01-05,chat,o rastreio está parado faz 6 dias. aguardo retorno,atraso
+48,2026-01-05,chat,"bom dia, o prazo de entrega já passou e o pedido não saiu para entrega",atraso
+49,2026-01-05,chat,"por favor, o desconto do cupom nao entrou e o pix nao foi reconhecido",pagamento
+50,2026-01-05,email,"por favor, comprei faz 3 dias e nada",atraso
+51,2026-01-05,chat,"POR FAVOR, O PRODUTO VEIO COM DEFEITO. PRECISO DE AJUDA",troca
+52,2026-01-05,chat,"por favor, comprei faz 7 dias e nada. obrigado",atraso
+53,2026-01-05,app,"POR FAVOR, QUERO ELOGIAR O ATENDIMENTO",outro
+54,2026-01-05,email,"oi, a entrega está atrasada e comprei faz 13 dias e nada",atraso
+55,2026-01-06,app,"bom dia, o pedido não saiu para entrega",atraso
+56,2026-01-06,email,"boa tarde, a caixa chegou amassada e o produto riscado e o produto chegou quebrado. preciso de ajuda",troca
+57,2026-01-06,chat,"boa tarde, o prazo de entrega já passou e cadê meu pedido?",atraso
+58,2026-01-06,chat,"bom dia, meu pedido ainda nao chegou",atraso
+59,2026-01-06,app,"bom dia, quero a segunda via do boleto. obrigado",pagamento
+60,2026-01-06,chat,"por favor, veio um item diferente do que eu pedi",troca
+61,2026-01-06,chat,"bom dia, o desconto do cupom não entrou. é urgente",pagamento
+62,2026-01-06,app,"bom dia, não quero trocar nada, só saber quando chega",atraso
+63,2026-01-06,app,como faço a troca e o produto chegou quebrado,troca
+64,2026-01-06,app,"por favor, comprei faz 10 dias e nada. é urgente",atraso
+65,2026-01-07,app,"por favor, a caixa chegou amassada e o produto riscado e quero o reembolso da devolucao. aguardo retorno",troca
+66,2026-01-07,chat,"boa tarde, o pagamento ficou pendente e não consigo pagar com cartão",pagamento
+67,2026-01-07,email,"oi, o pedido nao saiu para entrega!!",atraso
+68,2026-01-07,app,"bom dia, o pedido não saiu para entrega e era para chegar ontem. obrigado",atraso
+69,2026-01-07,chat,o pagamento ficou pendente,pagamento
+70,2026-01-07,chat,a compra foi recusada no cartão. obrigado,pagamento
+71,2026-01-07,app,"bom dia, veio a cor errada!!",troca
+72,2026-01-08,app,o pedido não saiu para entrega e era para chegar ontem. é urgente,atraso
+73,2026-01-08,email,"boa tarde, o pagamento foi aprovado mas o produto veio com defeito. é urgente",troca
+74,2026-01-08,app,"olá, quando meu pedido vai chegar e cadê meu pedido!!",atraso
+75,2026-01-08,chat,cobraram duas vezes no cartão e cobraram duas vezes no cartão!!,pagamento
+76,2026-01-08,app,"boa noite, o produto tem garantia e tem esse produto em outra cor!!",outro
+77,2026-01-08,chat,"olá, o pedido chegou mas cobraram duas vezes",pagamento
+78,2026-01-08,chat,quando meu pedido vai chegar e a transportadora não atualiza o rastreio. obrigado,atraso
+79,2026-01-08,chat,"por favor, chegou atrasado e ainda veio errado, quero trocar. aguardo retorno",troca
+80,2026-01-08,chat,"boa noite, era para chegar ontem. obrigado",atraso
+81,2026-01-08,app,"boa tarde, veio um item diferente do que eu pedi. aguardo retorno",troca
+82,2026-01-08,chat,"bom dia, o pedido não saiu para entrega. aguardo retorno",atraso
+83,2026-01-08,app,"oi, a transportadora nao atualiza o rastreio. e urgente",atraso
+84,2026-01-09,chat,comprei faz 11 dias e nada e cadê meu pedido,atraso
+85,2026-01-09,chat,"boa tarde, veio a cor errada. obrigado",troca
+86,2026-01-09,app,"oi, o pedido nao saiu para entrega e a entrega esta atrasada. pedido 45109",atraso
+87,2026-01-09,chat,qual o horario do atendimento,outro
+88,2026-01-09,app,quando meu pedido vai chegar,atraso
+89,2026-01-09,chat,"boa tarde, o estorno ainda não apareceu na fatura",pagamento
+90,2026-01-09,app,"por favor, cadê meu pedido. é urgente",atraso
+91,2026-01-09,chat,como faço a troca!!,troca
+92,2026-01-10,chat,"BOA TARDE, O BOLETO VENCEU. PEDIDO 49719",pagamento
+93,2026-01-10,email,"boa tarde, vocês têm loja física!!",outro
+94,2026-01-10,email,meu pedido ainda não chegou,atraso
+95,2026-01-10,app,vocês têm loja física,outro
+96,2026-01-10,chat,"por favor, a transportadora não atualiza o rastreio. preciso de ajuda",atraso
+97,2026-01-10,email,o pix não foi reconhecido?,pagamento
+98,2026-01-10,app,"BOA TARDE, CHEGOU ATRASADO E AINDA VEIO ERRADO, QUERO TROCAR. PRECISO DE AJUDA",troca
+99,2026-01-10,chat,"olá, o boleto venceu",pagamento
+100,2026-01-10,chat,"oi, o produto chegou quebrado",troca
+101,2026-01-10,chat,"boa noite, o produto chegou quebrado e veio um item diferente do que eu pedi. aguardo retorno",troca
+102,2026-01-10,chat,"boa tarde, veio um item diferente do que eu pedi. aguardo retorno",troca
+103,2026-01-10,chat,"bom dia, o prazo de entrega já passou",atraso
+104,2026-01-10,chat,"bom dia, meu pedido ainda nao chegou e o pedido nao saiu para entrega. preciso de ajuda",atraso
+105,2026-01-10,chat,"oi, meu pedido ainda não chegou. obrigado",atraso
+106,2026-01-10,chat,a transportadora não atualiza o rastreio?,atraso
+107,2026-01-11,email,"bom dia, quero devolver o produto",troca
+108,2026-01-11,app,a caixa chegou amassada e o produto riscado. pedido 93841,troca
+109,2026-01-11,app,"por favor, era para chegar ontem",atraso
+110,2026-01-11,email,"olá, o prazo de entrega já passou e era para chegar ontem",atraso
+111,2026-01-11,chat,o produto veio com defeito. preciso de ajuda,troca
+112,2026-01-11,chat,era para chegar ontem,atraso
+113,2026-01-11,app,"por favor, o desconto do cupom não entrou!!",pagamento
+114,2026-01-11,app,"oi, o produto veio com defeito. preciso de ajuda",troca
+115,2026-01-12,email,quando meu pedido vai chegar. aguardo retorno,atraso
+116,2026-01-12,chat,o desconto do cupom não entrou?,pagamento
+117,2026-01-12,chat,o prazo de entrega já passou. é urgente,atraso
+118,2026-01-12,chat,"boa noite, veio um item diferente do que eu pedi. é urgente",troca
+119,2026-01-12,app,"olá, quero mudar meu endereço de cadastro",outro
+120,2026-01-12,app,paguei e o pedido continua aguardando pagamento!!,pagamento
+121,2026-01-12,email,"bom dia, era para chegar ontem",atraso
+122,2026-01-12,chat,quero cancelar o recebimento de e-mails e qual o horário do atendimento,outro
+123,2026-01-12,email,"boa noite, a transportadora não atualiza o rastreio e comprei faz 2 dias e nada. é urgente",atraso
+124,2026-01-12,chat,"ola, era para chegar ontem!!",atraso
+125,2026-01-12,app,"boa tarde, quero o reembolso da devolucao",troca
+126,2026-01-12,chat,"olá, o desconto do cupom não entrou",pagamento
+127,2026-01-13,chat,"por favor, cade meu pedido?",atraso
+128,2026-01-13,chat,"OLA, QUERO DEVOLVER O PRODUTO?",troca
+129,2026-01-13,chat,vocês têm loja física!!,outro
+130,2026-01-13,email,"bom dia, a transportadora não atualiza o rastreio e era para chegar ontem. preciso de ajuda",atraso
+131,2026-01-14,email,"oi, chegou atrasado e ainda veio errado, quero trocar",troca
+132,2026-01-14,app,a transportadora não atualiza o rastreio,atraso
+133,2026-01-14,email,"não é sobre entrega nem pagamento, vocês têm vaga de emprego",outro
+134,2026-01-14,chat,"por favor, qual o horário do atendimento. obrigado",outro
+135,2026-01-14,chat,"oi, o estorno ainda não apareceu na fatura!!",pagamento
+136,2026-01-14,chat,"por favor, o pedido nao saiu para entrega",atraso
+137,2026-01-14,email,"boa noite, o produto veio com defeito",troca
+138,2026-01-14,app,"BOM DIA, CADÊ MEU PEDIDO!!",atraso
+139,2026-01-14,app,o rastreio está parado faz 13 dias?,atraso
+140,2026-01-14,chat,"boa noite, vocês entregam no sábado",outro
+141,2026-01-14,chat,"bom dia, era para chegar ontem. aguardo retorno",atraso
+142,2026-01-14,app,era para chegar ontem. aguardo retorno,atraso
+143,2026-01-14,chat,"por favor, voces tem loja fisica",outro
+144,2026-01-14,chat,QUERO CANCELAR O RECEBIMENTO DE E-MAILS E COMO USO O CUPOM DE ANIVERSARIO,outro
+145,2026-01-15,email,"oi, comprei faz 9 dias e nada e meu pedido ainda nao chegou. preciso de ajuda",atraso
+146,2026-01-15,chat,"bom dia, veio um item diferente do que eu pedi. e urgente",troca
+147,2026-01-15,email,"oi, o desconto do cupom não entrou e o boleto venceu",pagamento
+148,2026-01-15,chat,"bom dia, o prazo de entrega já passou",atraso
+149,2026-01-15,email,"boa tarde, como faço a troca. aguardo retorno",troca
+150,2026-01-15,chat,a entrega está atrasada. obrigado,atraso
+151,2026-01-15,chat,"boa tarde, a caixa chegou amassada e o produto riscado e o produto chegou quebrado",troca
+152,2026-01-15,app,"bom dia, não consigo pagar com cartão e o desconto do cupom não entrou!!",pagamento
+153,2026-01-15,chat,"BOA NOITE, QUERO O REEMBOLSO DA DEVOLUÇÃO!!",troca
+154,2026-01-15,chat,"oi, a entrega está atrasada",atraso
+155,2026-01-16,app,"bom dia, cobraram duas vezes no cartão e a compra foi recusada no cartão. pedido 57072",pagamento
+156,2026-01-16,app,A CAIXA CHEGOU AMASSADA E O PRODUTO RISCADO?,troca
+157,2026-01-16,chat,"por favor, quero devolver o produto. obrigado",troca
+158,2026-01-16,email,"olá, o produto veio com defeito. obrigado",troca
+159,2026-01-16,chat,"boa tarde, meu pedido ainda nao chegou",atraso
+160,2026-01-16,chat,o desconto do cupom não entrou?,pagamento
+161,2026-01-16,email,a entrega está atrasada e o rastreio está parado faz 6 dias. preciso de ajuda,atraso
+162,2026-01-16,app,"olá, era para chegar ontem e o pedido não saiu para entrega. aguardo retorno",atraso
+163,2026-01-16,chat,O PRODUTO VEIO COM DEFEITO,troca
+164,2026-01-16,chat,"boa noite, o pedido não saiu para entrega?",atraso
+165,2026-01-16,email,"bom dia, quero mudar meu endereco de cadastro?",outro
+166,2026-01-16,email,"por favor, qual o horario do atendimento. pedido 68580",outro
+167,2026-01-16,app,a entrega está atrasada e comprei faz 8 dias e nada. pedido 15031,atraso
+168,2026-01-16,app,a transportadora não atualiza o rastreio. aguardo retorno,atraso
+169,2026-01-16,chat,"por favor, o prazo de entrega ja passou e era para chegar ontem. obrigado",atraso
+170,2026-01-17,app,"BOA NOITE, A CAIXA CHEGOU AMASSADA E O PRODUTO RISCADO?",troca
+171,2026-01-17,chat,"ola, nao e sobre entrega nem pagamento, voces tem vaga de emprego",outro
+172,2026-01-17,app,tem esse produto em outra cor e quero cancelar o recebimento de e-mails,outro
+173,2026-01-17,chat,"oi, o rastreio esta parado faz 5 dias. e urgente",atraso
+174,2026-01-17,app,paguei e o pedido continua aguardando pagamento,pagamento
+175,2026-01-17,chat,"não quero trocar nada, só saber quando chega",atraso
+176,2026-01-18,chat,"boa noite, vocês vendem para empresa?",outro
+177,2026-01-18,app,"oi, a transportadora não atualiza o rastreio!!",atraso
+178,2026-01-18,app,"boa tarde, quero trocar a forma de pagamento do boleto para pix!!",pagamento
+179,2026-01-18,app,"ola, nao consigo pagar com cartao e o estorno ainda nao apareceu na fatura. pedido 68855",pagamento
+180,2026-01-18,email,"bom dia, paguei e o pedido continua aguardando pagamento e quero a segunda via do boleto!!",pagamento
+181,2026-01-18,app,"bom dia, a caixa chegou amassada e o produto riscado e quero o reembolso da devolucao. aguardo retorno",troca
+182,2026-01-18,chat,quero o reembolso da devolução!!,troca
+183,2026-01-18,app,como faço a troca,troca
+184,2026-01-18,email,"boa tarde, quero mudar meu endereço de cadastro. obrigado",outro
+185,2026-01-19,chat,O PRODUTO CHEGOU QUEBRADO!!,troca
+186,2026-01-19,app,"por favor, quero a segunda via do boleto e quero a segunda via do boleto?",pagamento
+187,2026-01-19,app,"olá, quero trocar o tamanho",troca
+188,2026-01-19,app,veio um item diferente do que eu pedi!!,troca
+189,2026-01-19,chat,"oi, quero o reembolso da devolução",troca
+190,2026-01-19,app,"bom dia, quando meu pedido vai chegar!!",atraso
+191,2026-01-19,chat,"por favor, a caixa chegou amassada e o produto riscado. obrigado",troca
+192,2026-01-19,chat,"bom dia, tem esse produto em outra cor!!",outro
+193,2026-01-19,email,"POR FAVOR, CADÊ MEU PEDIDO. AGUARDO RETORNO",atraso
+194,2026-01-19,chat,"bom dia, o estorno ainda não apareceu na fatura. obrigado",pagamento
+195,2026-01-19,chat,"BOM DIA, PAGUEI NO PIX FAZ 4 DIAS E O PEDIDO NÃO CHEGOU?",atraso
+196,2026-01-19,app,a peça não serviu. preciso de ajuda,troca
+197,2026-01-19,email,"oi, o produto chegou quebrado e o produto chegou quebrado?",troca
+198,2026-01-19,chat,"OLÁ, ERA PARA CHEGAR ONTEM E O PRAZO DE ENTREGA JÁ PASSOU. PEDIDO 44250",atraso
+199,2026-01-19,chat,a caixa chegou amassada e o produto riscado. pedido 66419,troca
+200,2026-01-19,chat,tem esse produto em outra cor,outro
+201,2026-01-20,app,"olá, comprei faz 8 dias e nada",atraso
+202,2026-01-20,chat,"por favor, o desconto do cupom não entrou?",pagamento
+203,2026-01-20,app,veio um item diferente do que eu pedi. obrigado,troca
+204,2026-01-20,chat,"oi, a caixa chegou amassada e o produto riscado. preciso de ajuda",troca
+205,2026-01-20,app,"por favor, voces entregam no sabado. preciso de ajuda",outro
+206,2026-01-20,app,"por favor, meu pedido ainda não chegou. preciso de ajuda",atraso
+207,2026-01-20,chat,"por favor, o pedido não saiu para entrega?",atraso
+208,2026-01-20,chat,"olá, o prazo de entrega já passou. aguardo retorno",atraso
+209,2026-01-20,app,"bom dia, meu pedido ainda nao chegou. preciso de ajuda",atraso
+210,2026-01-20,chat,"boa noite, meu pedido ainda nao chegou. pedido 44163",atraso
+211,2026-01-20,chat,a entrega esta atrasada e quando meu pedido vai chegar. e urgente,atraso
+212,2026-01-20,chat,"oi, vocês têm loja física?",outro
+213,2026-01-21,email,"por favor, o pedido não saiu para entrega!!",atraso
+214,2026-01-21,email,"boa tarde, a transportadora não atualiza o rastreio e a entrega está atrasada",atraso
+215,2026-01-21,email,"bom dia, o pedido não saiu para entrega e cadê meu pedido. aguardo retorno",atraso
+216,2026-01-21,app,"olá, vocês têm loja física e vocês entregam no sábado",outro
+217,2026-01-21,app,"BOA NOITE, NÃO CONSIGO PAGAR COM CARTÃO",pagamento
+218,2026-01-21,email,"bom dia, o produto tem garantia. aguardo retorno",outro
+219,2026-01-21,app,"boa noite, paguei e o pedido continua aguardando pagamento",pagamento
+220,2026-01-21,chat,"boa noite, voces tem loja fisica. preciso de ajuda",outro
+221,2026-01-21,app,"bom dia, o rastreio está parado faz 4 dias e quando meu pedido vai chegar. é urgente",atraso
+222,2026-01-21,chat,"boa noite, o boleto venceu. preciso de ajuda",pagamento
+223,2026-01-21,app,"por favor, tem esse produto em outra cor!!",outro
+224,2026-01-21,chat,"BOA TARDE, ERA PARA CHEGAR ONTEM. PRECISO DE AJUDA",atraso
+225,2026-01-22,chat,quero o reembolso da devolução. aguardo retorno,troca
+226,2026-01-22,email,"oi, o estorno ainda nao apareceu na fatura?",pagamento
+227,2026-01-22,email,"oi, meu pedido ainda não chegou",atraso
+228,2026-01-22,chat,"bom dia, meu pedido ainda não chegou?",atraso
+229,2026-01-22,email,QUANDO MEU PEDIDO VAI CHEGAR E O PRAZO DE ENTREGA JA PASSOU. E URGENTE,atraso
+230,2026-01-22,app,a entrega está atrasada. é urgente,atraso
+231,2026-01-22,app,"oi, não é sobre entrega nem pagamento, vocês têm vaga de emprego. pedido 42023",outro
+232,2026-01-22,chat,cobraram duas vezes no cartão,pagamento
+233,2026-01-23,email,o pedido chegou mas cobraram duas vezes. preciso de ajuda,pagamento
+234,2026-01-23,app,"boa tarde, cadê meu pedido. é urgente",atraso
+235,2026-01-23,app,"bom dia, o pix nao foi reconhecido. obrigado",pagamento
+236,2026-01-23,app,"nao e sobre entrega nem pagamento, voces tem vaga de emprego. pedido 86149",outro
+237,2026-01-23,chat,"boa noite, o produto veio com defeito",troca
+238,2026-01-23,app,"OI, NÃO CONSIGO PAGAR COM CARTÃO E NÃO CONSIGO PAGAR COM CARTÃO",pagamento
+239,2026-01-23,email,"bom dia, a caixa chegou amassada e o produto riscado",troca
+240,2026-01-23,app,"POR FAVOR, PAGUEI NO PIX FAZ 14 DIAS E O PEDIDO NAO CHEGOU",atraso
+241,2026-01-23,chat,"boa noite, a entrega está atrasada",atraso
+242,2026-01-23,chat,"por favor, quero o reembolso da devolução. preciso de ajuda",troca
+243,2026-01-23,email,"BOA TARDE, O PRAZO DE ENTREGA JÁ PASSOU E A TRANSPORTADORA NÃO ATUALIZA O RASTREIO. PEDIDO 54158",atraso
+244,2026-01-23,app,"boa tarde, como faço a troca e o produto chegou quebrado. obrigado",troca
+245,2026-01-23,chat,"oi, o produto chegou quebrado. aguardo retorno",troca
+246,2026-01-23,chat,veio um item diferente do que eu pedi e quero devolver o produto. e urgente,troca
+247,2026-01-24,email,"por favor, vocês vendem para empresa",outro
+248,2026-01-24,chat,"chegou atrasado e ainda veio errado, quero trocar",troca
+249,2026-01-24,email,"oi, paguei no pix faz 14 dias e o pedido não chegou. pedido 97137",atraso
+250,2026-01-24,email,"oi, voces entregam no sabado",outro
+251,2026-01-24,chat,quero trocar o tamanho. aguardo retorno,troca
+252,2026-01-24,chat,"OLÁ, O PRODUTO CHEGOU QUEBRADO. PRECISO DE AJUDA",troca
+253,2026-01-24,chat,"por favor, a compra foi recusada no cartao e o pix nao foi reconhecido. preciso de ajuda",pagamento
+254,2026-01-24,email,"oi, meu pedido ainda não chegou e quando meu pedido vai chegar. preciso de ajuda",atraso
+255,2026-01-24,app,"bom dia, o produto tem garantia?",outro
+256,2026-01-24,chat,"oi, o pedido chegou mas cobraram duas vezes. preciso de ajuda",pagamento
+257,2026-01-24,app,veio um item diferente do que eu pedi,troca
+258,2026-01-24,chat,"boa noite, cobraram duas vezes no cartão!!",pagamento
+259,2026-01-25,email,"BOA TARDE, A ENTREGA ESTA ATRASADA. E URGENTE",atraso
+260,2026-01-25,chat,comprei faz 9 dias e nada!!,atraso
+261,2026-01-25,app,"POR FAVOR, ERA PARA CHEGAR ONTEM E MEU PEDIDO AINDA NAO CHEGOU. OBRIGADO",atraso
+262,2026-01-25,chat,"por favor, era para chegar ontem?",atraso
+263,2026-01-25,app,"bom dia, era para chegar ontem. aguardo retorno",atraso
+264,2026-01-25,chat,"bom dia, vocês têm loja física e vocês entregam no sábado",outro
+265,2026-01-25,app,veio a cor errada e a caixa chegou amassada e o produto riscado,troca
+266,2026-01-25,email,qual o horário do atendimento. aguardo retorno,outro
+267,2026-01-25,email,quero devolver o produto. pedido 10098,troca
+268,2026-01-25,chat,"olá, o rastreio está parado faz 4 dias",atraso
+269,2026-01-25,chat,"BOA TARDE, PAGUEI E O PEDIDO CONTINUA AGUARDANDO PAGAMENTO. PEDIDO 66021",pagamento
+270,2026-01-25,chat,o prazo de entrega já passou e a transportadora não atualiza o rastreio,atraso
+271,2026-01-25,chat,"ola, o rastreio esta parado faz 2 dias e o pedido nao saiu para entrega",atraso
+272,2026-01-25,app,"boa noite, cobraram duas vezes no cartão. obrigado",pagamento
+273,2026-01-25,email,"boa noite, quero devolver o produto. é urgente",troca
+274,2026-01-26,chat,o pagamento ficou pendente!!,pagamento
+275,2026-01-26,chat,"olá, quero devolver o produto e como faço a troca. é urgente",troca
+276,2026-01-26,email,tem esse produto em outra cor. é urgente,outro
+277,2026-01-26,chat,quero elogiar o atendimento. e urgente,outro
+278,2026-01-26,email,"BOA NOITE, A COMPRA FOI RECUSADA NO CARTAO!!",pagamento
+279,2026-01-26,chat,"por favor, o pix não foi reconhecido. pedido 44776",pagamento
+280,2026-01-26,chat,"boa tarde, a transportadora nao atualiza o rastreio. obrigado",atraso
+281,2026-01-26,email,"boa noite, quero trocar a forma de pagamento do boleto para pix!!",pagamento
+282,2026-01-26,email,"oi, o pagamento ficou pendente. e urgente",pagamento
+283,2026-01-26,chat,"por favor, quero a segunda via do boleto",pagamento
+284,2026-01-27,email,"boa tarde, o pedido nao saiu para entrega e era para chegar ontem",atraso
+285,2026-01-27,chat,"OLÁ, O PRODUTO CHEGOU QUEBRADO",troca
+286,2026-01-27,chat,"boa tarde, quero a segunda via do boleto",pagamento
+287,2026-01-27,chat,"boa noite, quero devolver o produto",troca
+288,2026-01-27,chat,era para chegar ontem. obrigado,atraso
+289,2026-01-27,chat,"boa tarde, o boleto venceu. aguardo retorno",pagamento
+290,2026-01-27,chat,cadê meu pedido,atraso
+291,2026-01-27,email,"oi, paguei e o pedido continua aguardando pagamento. pedido 52504",pagamento
+292,2026-01-27,email,"OLA, O BOLETO VENCEU",pagamento
+293,2026-01-27,chat,"boa noite, vocês entregam no sábado. obrigado",outro
+294,2026-01-27,email,"ola, o prazo de entrega ja passou e o pedido nao saiu para entrega. obrigado",atraso
+295,2026-01-27,chat,"BOA TARDE, A TRANSPORTADORA NAO ATUALIZA O RASTREIO. PRECISO DE AJUDA",atraso
+296,2026-01-27,chat,"olá, meu pedido ainda não chegou",atraso
+297,2026-01-27,chat,"boa tarde, o desconto do cupom não entrou",pagamento
+298,2026-01-28,email,"bom dia, meu pedido ainda nao chegou. preciso de ajuda",atraso
+299,2026-01-28,chat,"olá, cadê meu pedido e o rastreio está parado faz 12 dias?",atraso
+300,2026-01-28,chat,"por favor, qual o horario do atendimento?",outro
+301,2026-01-29,email,quero devolver o produto?,troca
+302,2026-01-29,chat,"por favor, o pix não foi reconhecido",pagamento
+303,2026-01-29,email,"por favor, meu pedido ainda não chegou",atraso
+304,2026-01-29,chat,"oi, a caixa chegou amassada e o produto riscado e o produto veio com defeito!!",troca
+305,2026-01-29,app,"bom dia, paguei e o pedido continua aguardando pagamento e o desconto do cupom não entrou",pagamento
+306,2026-01-29,chat,como uso o cupom de aniversario,outro
+307,2026-01-29,app,como faço a troca,troca
+308,2026-01-29,email,"oi, veio um item diferente do que eu pedi. pedido 20327",troca
+309,2026-01-29,email,"oi, a entrega está atrasada. pedido 26171",atraso
+310,2026-01-29,chat,"OI, QUANDO MEU PEDIDO VAI CHEGAR E CADÊ MEU PEDIDO. PRECISO DE AJUDA",atraso
+311,2026-01-29,chat,"bom dia, o produto chegou quebrado. é urgente",troca
+312,2026-01-29,chat,o produto veio com defeito,troca
+313,2026-01-30,chat,"oi, quero trocar o tamanho. pedido 43285",troca
+314,2026-01-30,chat,"boa noite, vocês têm loja física e o produto tem garantia. preciso de ajuda",outro
+315,2026-01-30,email,o pedido chegou mas cobraram duas vezes!!,pagamento
+316,2026-01-30,app,comprei faz 13 dias e nada. preciso de ajuda,atraso
+317,2026-01-31,email,"boa noite, meu pedido ainda não chegou e o rastreio está parado faz 6 dias. obrigado",atraso
+318,2026-01-31,chat,MEU PEDIDO AINDA NAO CHEGOU. PRECISO DE AJUDA,atraso
+319,2026-01-31,email,"OLÁ, QUANDO MEU PEDIDO VAI CHEGAR E O RASTREIO ESTÁ PARADO FAZ 9 DIAS",atraso
+320,2026-01-31,app,"ola, nao e sobre entrega nem pagamento, voces tem vaga de emprego. preciso de ajuda",outro
+321,2026-01-31,chat,o produto veio com defeito,troca
+322,2026-01-31,chat,"olá, a transportadora não atualiza o rastreio e o prazo de entrega já passou. preciso de ajuda",atraso
+323,2026-01-31,chat,"boa noite, meu pedido ainda não chegou?",atraso
+324,2026-01-31,chat,era para chegar ontem e quando meu pedido vai chegar. obrigado,atraso
+325,2026-02-01,chat,o rastreio está parado faz 7 dias e era para chegar ontem. preciso de ajuda,atraso
+326,2026-02-01,chat,"boa tarde, quando meu pedido vai chegar e o prazo de entrega já passou. pedido 77615",atraso
+327,2026-02-01,chat,"olá, quero trocar o tamanho!!",troca
+328,2026-02-01,chat,"bom dia, a caixa chegou amassada e o produto riscado. preciso de ajuda",troca
+329,2026-02-01,chat,"OI, VEIO A COR ERRADA",troca
+330,2026-02-01,email,"oi, a caixa chegou amassada e o produto riscado. obrigado",troca
+331,2026-02-01,app,"por favor, como uso o cupom de aniversário",outro
+332,2026-02-01,app,"boa tarde, comprei faz 15 dias e nada",atraso
+333,2026-02-01,email,"olá, a peça não serviu",troca
+334,2026-02-01,app,"por favor, o pedido nao saiu para entrega?",atraso
+335,2026-02-01,chat,"oi, o produto chegou quebrado",troca
+336,2026-02-01,chat,"bom dia, a entrega está atrasada",atraso
+337,2026-02-02,app,"oi, chegou atrasado e ainda veio errado, quero trocar. preciso de ajuda",troca
+338,2026-02-02,chat,"boa noite, o produto chegou quebrado. aguardo retorno",troca
+339,2026-02-02,email,a compra foi recusada no cartão!!,pagamento
+340,2026-02-02,email,"boa noite, o prazo de entrega já passou",atraso
+341,2026-02-02,email,paguei e o pedido continua aguardando pagamento,pagamento
+342,2026-02-02,chat,"bom dia, o pedido não saiu para entrega e comprei faz 4 dias e nada. aguardo retorno",atraso
+343,2026-02-02,app,"boa tarde, cadê meu pedido",atraso
+344,2026-02-02,email,"oi, veio um item diferente do que eu pedi",troca
+345,2026-02-02,app,"boa noite, como faco a troca e o produto veio com defeito. preciso de ajuda",troca
+346,2026-02-03,chat,"oi, quero trocar o tamanho e quero devolver o produto?",troca
+347,2026-02-03,chat,"BOA NOITE, QUERO MUDAR MEU ENDEREÇO DE CADASTRO!!",outro
+348,2026-02-03,email,"BOM DIA, COBRARAM DUAS VEZES NO CARTAO",pagamento
+349,2026-02-03,email,"oi, paguei no pix faz 8 dias e o pedido não chegou. obrigado",atraso
+350,2026-02-03,app,"ola, comprei faz 13 dias e nada. preciso de ajuda",atraso
+351,2026-02-03,email,"BOA NOITE, QUAL O HORÁRIO DO ATENDIMENTO E VOCÊS VENDEM PARA EMPRESA. OBRIGADO",outro
+352,2026-02-03,app,"oi, veio um item diferente do que eu pedi",troca
+353,2026-02-03,app,"boa tarde, o rastreio está parado faz 10 dias e comprei faz 10 dias e nada",atraso
+354,2026-02-03,email,"boa noite, a caixa chegou amassada e o produto riscado. obrigado",troca
+355,2026-02-03,chat,"por favor, a transportadora não atualiza o rastreio",atraso
+356,2026-02-03,chat,"OLÁ, COMPREI FAZ 9 DIAS E NADA. É URGENTE",atraso
+357,2026-02-03,app,o prazo de entrega já passou. pedido 69830,atraso
+358,2026-02-04,chat,"boa tarde, não quero trocar nada, só saber quando chega!!",atraso
+359,2026-02-04,chat,"OI, VOCES ENTREGAM NO SABADO",outro
+360,2026-02-04,app,"por favor, nao consigo pagar com cartao!!",pagamento
+361,2026-02-04,chat,paguei e o pedido continua aguardando pagamento!!,pagamento
+362,2026-02-04,app,"oi, quando meu pedido vai chegar e comprei faz 3 dias e nada. preciso de ajuda",atraso
+363,2026-02-04,chat,"boa tarde, a caixa chegou amassada e o produto riscado",troca
+364,2026-02-04,app,"ola, voces tem loja fisica. e urgente",outro
+365,2026-02-04,chat,quero devolver o produto. aguardo retorno,troca
+366,2026-02-04,app,"ola, quero trocar a forma de pagamento do boleto para pix. e urgente",pagamento
+367,2026-02-04,chat,a compra foi recusada no cartao?,pagamento
+368,2026-02-04,app,quero trocar o tamanho,troca
+369,2026-02-05,chat,"boa noite, o produto chegou quebrado e o produto veio com defeito?",troca
+370,2026-02-05,chat,"por favor, quero o reembolso da devolução",troca
+371,2026-02-05,email,"bom dia, era para chegar ontem",atraso
+372,2026-02-05,chat,"bom dia, o pix nao foi reconhecido e quero a segunda via do boleto",pagamento
+373,2026-02-05,app,"boa tarde, chegou atrasado e ainda veio errado, quero trocar",troca
+374,2026-02-05,chat,"olá, não quero trocar nada, só saber quando chega. pedido 84711",atraso
+375,2026-02-05,chat,"olá, o produto chegou quebrado",troca
+376,2026-02-05,chat,"OI, VEIO UM ITEM DIFERENTE DO QUE EU PEDI. PRECISO DE AJUDA",troca
+377,2026-02-05,app,"por favor, quero trocar a forma de pagamento do boleto para pix. e urgente",pagamento
+378,2026-02-05,chat,tem esse produto em outra cor. preciso de ajuda,outro
+379,2026-02-05,app,"boa noite, a transportadora nao atualiza o rastreio e era para chegar ontem?",atraso
+380,2026-02-06,email,"OLÁ, O PRAZO DE ENTREGA JÁ PASSOU",atraso
+381,2026-02-06,app,"boa tarde, o pedido não saiu para entrega?",atraso
+382,2026-02-06,chat,"boa noite, a transportadora nao atualiza o rastreio!!",atraso
+383,2026-02-06,chat,"oi, como faço a troca. aguardo retorno",troca
+384,2026-02-06,chat,"boa tarde, comprei faz 6 dias e nada?",atraso
+385,2026-02-06,chat,o produto veio com defeito,troca
+386,2026-02-06,app,"oi, veio a cor errada. pedido 84308",troca
+387,2026-02-06,app,VEIO UM ITEM DIFERENTE DO QUE EU PEDI. PRECISO DE AJUDA,troca
+388,2026-02-07,chat,"olá, paguei no pix faz 14 dias e o pedido não chegou. aguardo retorno",atraso
+389,2026-02-07,chat,"OLÁ, TEM ESSE PRODUTO EM OUTRA COR E COMO USO O CUPOM DE ANIVERSÁRIO?",outro
+390,2026-02-07,chat,quero elogiar o atendimento. é urgente,outro
+391,2026-02-07,email,"oi, quero o reembolso da devolucao e veio a cor errada. e urgente",troca
+392,2026-02-07,chat,"OI, NÃO QUERO TROCAR NADA, SÓ SABER QUANDO CHEGA. PEDIDO 16552",atraso
+393,2026-02-08,chat,"bom dia, quando meu pedido vai chegar e a transportadora não atualiza o rastreio. pedido 41416",atraso
+394,2026-02-08,chat,"oi, vocês vendem para empresa?",outro
+395,2026-02-08,chat,"olá, veio a cor errada e veio a cor errada. aguardo retorno",troca
+396,2026-02-08,chat,"OI, MEU PEDIDO AINDA NÃO CHEGOU E O PEDIDO NÃO SAIU PARA ENTREGA. OBRIGADO",atraso
+397,2026-02-08,email,"boa tarde, não consigo pagar com cartão!!",pagamento
+398,2026-02-08,email,"por favor, quero cancelar o recebimento de e-mails",outro
+399,2026-02-08,chat,"BOA NOITE, COBRARAM DUAS VEZES NO CARTÃO",pagamento
+400,2026-02-08,chat,"por favor, paguei e o pedido continua aguardando pagamento e cobraram duas vezes no cartão!!",pagamento
+401,2026-02-08,chat,a transportadora não atualiza o rastreio e comprei faz 12 dias e nada,atraso
+402,2026-02-08,chat,"oi, o rastreio está parado faz 4 dias",atraso
+403,2026-02-09,chat,"por favor, quero o reembolso da devolução. aguardo retorno",troca
+404,2026-02-09,app,"bom dia, cadê meu pedido. preciso de ajuda",atraso
+405,2026-02-09,app,"bom dia, o produto tem garantia e quero cancelar o recebimento de e-mails",outro
+406,2026-02-09,app,"oi, a caixa chegou amassada e o produto riscado",troca
+407,2026-02-09,chat,"boa tarde, o pedido nao saiu para entrega",atraso
+408,2026-02-09,chat,"bom dia, quero devolver o produto. é urgente",troca
+409,2026-02-09,chat,"oi, a caixa chegou amassada e o produto riscado!!",troca
+410,2026-02-09,email,era para chegar ontem,atraso
+411,2026-02-10,chat,"BOA NOITE, QUERO O REEMBOLSO DA DEVOLUÇÃO E COMO FAÇO A TROCA",troca
+412,2026-02-10,chat,"por favor, comprei faz 11 dias e nada e meu pedido ainda não chegou",atraso
+413,2026-02-10,app,"boa noite, o pedido não saiu para entrega",atraso
+414,2026-02-10,email,"oi, a transportadora não atualiza o rastreio e o prazo de entrega já passou. preciso de ajuda",atraso
+415,2026-02-10,chat,"boa noite, o produto tem garantia",outro
+416,2026-02-10,chat,"boa tarde, o pagamento foi aprovado mas o produto veio com defeito. aguardo retorno",troca
+417,2026-02-10,email,"olá, quando meu pedido vai chegar",atraso
+418,2026-02-10,chat,"oi, o pagamento ficou pendente?",pagamento
+419,2026-02-10,chat,"bom dia, veio a cor errada!!",troca
+420,2026-02-11,chat,"bom dia, a transportadora não atualiza o rastreio. preciso de ajuda",atraso
+421,2026-02-11,app,"boa tarde, quero cancelar o recebimento de e-mails e quero elogiar o atendimento",outro
+422,2026-02-11,chat,"bom dia, a entrega está atrasada. pedido 87130",atraso
+423,2026-02-11,app,"BOM DIA, QUERO ELOGIAR O ATENDIMENTO!!",outro
+424,2026-02-11,chat,quero trocar o tamanho. preciso de ajuda,troca
+425,2026-02-11,email,"por favor, não consigo pagar com cartão?",pagamento
+426,2026-02-11,app,"boa tarde, chegou atrasado e ainda veio errado, quero trocar",troca
+427,2026-02-12,chat,"boa noite, o desconto do cupom não entrou. obrigado",pagamento
+428,2026-02-12,chat,"boa noite, paguei e o pedido continua aguardando pagamento. pedido 10268",pagamento
+429,2026-02-12,app,"bom dia, comprei faz 7 dias e nada",atraso
+430,2026-02-12,email,"oi, veio a cor errada?",troca
+431,2026-02-12,chat,não consigo pagar com cartão. pedido 75740,pagamento
+432,2026-02-12,chat,"oi, a entrega está atrasada e a transportadora não atualiza o rastreio. pedido 39011",atraso
+433,2026-02-12,email,"boa noite, veio a cor errada",troca
+434,2026-02-12,chat,"por favor, o pedido chegou mas cobraram duas vezes. obrigado",pagamento
+435,2026-02-12,app,"boa noite, quero trocar o tamanho. pedido 10835",troca
+436,2026-02-12,chat,"BOA NOITE, VEIO A COR ERRADA E A PECA NAO SERVIU",troca
+437,2026-02-12,app,"POR FAVOR, VOCÊS TÊM LOJA FÍSICA",outro
+438,2026-02-12,chat,"boa noite, como faço a troca",troca
+439,2026-02-12,chat,"por favor, a entrega está atrasada",atraso
+440,2026-02-12,chat,"boa noite, chegou atrasado e ainda veio errado, quero trocar. preciso de ajuda",troca
+441,2026-02-13,app,cadê meu pedido e o pedido não saiu para entrega. é urgente,atraso
+442,2026-02-13,chat,"por favor, quero o reembolso da devolução",troca
+443,2026-02-13,chat,era para chegar ontem?,atraso
+444,2026-02-13,email,"oi, não consigo pagar com cartão",pagamento
+445,2026-02-13,chat,qual o horário do atendimento,outro
+446,2026-02-13,email,"bom dia, como faço a troca. pedido 79755",troca
+447,2026-02-13,app,"bom dia, o prazo de entrega já passou. aguardo retorno",atraso
+448,2026-02-13,chat,"oi, como uso o cupom de aniversário",outro
+449,2026-02-13,app,"oi, meu pedido ainda nao chegou!!",atraso
+450,2026-02-13,chat,"boa tarde, era para chegar ontem",atraso
+451,2026-02-13,chat,a peça não serviu. aguardo retorno,troca
+452,2026-02-14,chat,"boa tarde, veio um item diferente do que eu pedi",troca
+453,2026-02-14,email,cobraram duas vezes no cartão?,pagamento
+454,2026-02-14,app,"oi, veio a cor errada!!",troca
+455,2026-02-14,app,"olá, o pedido não saiu para entrega?",atraso
+456,2026-02-14,chat,era para chegar ontem,atraso
+457,2026-02-14,app,"bom dia, a entrega está atrasada. é urgente",atraso
+458,2026-02-14,chat,"olá, o boleto venceu. é urgente",pagamento
+459,2026-02-14,chat,"boa noite, o rastreio esta parado faz 14 dias!!",atraso
+460,2026-02-14,app,a transportadora nao atualiza o rastreio. aguardo retorno,atraso
+461,2026-02-14,chat,"por favor, veio um item diferente do que eu pedi",troca
+462,2026-02-14,chat,"por favor, cadê meu pedido. aguardo retorno",atraso
+463,2026-02-14,app,"boa tarde, cobraram duas vezes no cartao. aguardo retorno",pagamento
+464,2026-02-15,app,"por favor, vocês vendem para empresa. é urgente",outro
+465,2026-02-15,email,"olá, a caixa chegou amassada e o produto riscado e como faço a troca",troca
+466,2026-02-15,email,cobraram duas vezes no cartão. aguardo retorno,pagamento
+467,2026-02-15,app,"oi, o pedido nao saiu para entrega. e urgente",atraso
+468,2026-02-16,chat,"boa noite, veio a cor errada. é urgente",troca
+469,2026-02-16,email,"boa noite, meu pedido ainda não chegou. aguardo retorno",atraso
+470,2026-02-16,app,"olá, quero a segunda via do boleto. obrigado",pagamento
+471,2026-02-16,chat,"oi, quero a segunda via do boleto",pagamento
+472,2026-02-16,app,"boa tarde, quando meu pedido vai chegar. aguardo retorno",atraso
+473,2026-02-16,app,a peça não serviu e veio a cor errada?,troca
+474,2026-02-16,chat,o boleto venceu,pagamento
+475,2026-02-16,app,"boa noite, o pedido não saiu para entrega e o pedido não saiu para entrega",atraso
+476,2026-02-16,chat,"ola, cade meu pedido e cade meu pedido",atraso
+477,2026-02-16,app,"boa noite, como faço a troca?",troca
+478,2026-02-16,app,"olá, paguei no pix faz 13 dias e o pedido não chegou",atraso
+479,2026-02-16,chat,"boa noite, paguei e o pedido continua aguardando pagamento. preciso de ajuda",pagamento
+480,2026-02-17,chat,quero cancelar o recebimento de e-mails?,outro
+481,2026-02-17,chat,"BOM DIA, O ESTORNO AINDA NÃO APARECEU NA FATURA E O ESTORNO AINDA NÃO APARECEU NA FATURA",pagamento
+482,2026-02-17,app,QUERO A SEGUNDA VIA DO BOLETO!!,pagamento
+483,2026-02-17,email,"BOA TARDE, NAO E SOBRE ENTREGA NEM PAGAMENTO, VOCES TEM VAGA DE EMPREGO",outro
+484,2026-02-17,email,"bom dia, cadê meu pedido e a entrega está atrasada",atraso
+485,2026-02-17,chat,"boa tarde, não quero trocar nada, só saber quando chega?",atraso
+486,2026-02-18,chat,"por favor, cobraram duas vezes no cartão e quero a segunda via do boleto. aguardo retorno",pagamento
+487,2026-02-18,app,"oi, a transportadora não atualiza o rastreio e meu pedido ainda não chegou?",atraso
+488,2026-02-18,chat,"bom dia, o rastreio está parado faz 8 dias",atraso
+489,2026-02-18,app,"por favor, o boleto venceu",pagamento
+490,2026-02-18,chat,o pedido não saiu para entrega. preciso de ajuda,atraso
+491,2026-02-18,chat,"BOA NOITE, QUERO ELOGIAR O ATENDIMENTO E QUERO MUDAR MEU ENDERECO DE CADASTRO",outro
+492,2026-02-18,chat,"oi, vocês entregam no sábado e o produto tem garantia. obrigado",outro
+493,2026-02-18,email,"por favor, o pix não foi reconhecido",pagamento
+494,2026-02-18,email,"boa noite, o rastreio está parado faz 6 dias",atraso
+495,2026-02-18,app,"olá, era para chegar ontem",atraso
+496,2026-02-18,chat,"OLÁ, MEU PEDIDO AINDA NÃO CHEGOU E O PEDIDO NÃO SAIU PARA ENTREGA",atraso
+497,2026-02-18,email,"por favor, quero mudar meu endereco de cadastro. e urgente",outro
+498,2026-02-18,chat,A PECA NAO SERVIU,troca
+499,2026-02-19,app,"bom dia, como faço a troca e o produto veio com defeito",troca
+500,2026-02-19,chat,"oi, o produto tem garantia. preciso de ajuda",outro
+501,2026-02-19,app,"oi, quero elogiar o atendimento e quero elogiar o atendimento. aguardo retorno",outro
+502,2026-02-19,chat,"oi, o rastreio esta parado faz 10 dias e cade meu pedido. e urgente",atraso
+503,2026-02-19,app,"boa tarde, o estorno ainda não apareceu na fatura e não consigo pagar com cartão?",pagamento
+504,2026-02-19,app,"oi, veio um item diferente do que eu pedi. obrigado",troca
+505,2026-02-19,email,"boa noite, o produto chegou quebrado. é urgente",troca
+506,2026-02-19,chat,"olá, quero devolver o produto e quero o reembolso da devolução. é urgente",troca
+507,2026-02-19,app,"bom dia, o boleto venceu. e urgente",pagamento
+508,2026-02-19,chat,"BOA TARDE, A CAIXA CHEGOU AMASSADA E O PRODUTO RISCADO?",troca
+509,2026-02-19,app,quero mudar meu endereço de cadastro. pedido 22425,outro
+510,2026-02-20,app,"boa tarde, era para chegar ontem e o prazo de entrega já passou",atraso
+511,2026-02-20,chat,era para chegar ontem?,atraso
+512,2026-02-20,chat,"oi, quero devolver o produto",troca
+513,2026-02-20,chat,"ola, quero devolver o produto. pedido 28736",troca
+514,2026-02-21,chat,"por favor, cade meu pedido e o prazo de entrega ja passou. obrigado",atraso
+515,2026-02-21,chat,"boa tarde, quando meu pedido vai chegar?",atraso
+516,2026-02-21,app,"bom dia, o pix nao foi reconhecido. obrigado",pagamento
+517,2026-02-21,chat,"ola, quero devolver o produto e quero o reembolso da devolucao",troca
+518,2026-02-21,chat,"bom dia, como uso o cupom de aniversário e qual o horário do atendimento. é urgente",outro
+519,2026-02-21,email,"por favor, paguei e o pedido continua aguardando pagamento!!",pagamento
+520,2026-02-21,email,o pix nao foi reconhecido e cobraram duas vezes no cartao?,pagamento
+521,2026-02-21,app,"olá, a transportadora não atualiza o rastreio?",atraso
+522,2026-02-21,chat,vocês entregam no sábado. obrigado,outro
+523,2026-02-21,app,o produto tem garantia!!,outro
+524,2026-02-21,chat,comprei faz 12 dias e nada. aguardo retorno,atraso
+525,2026-02-21,chat,COMPREI FAZ 5 DIAS E NADA,atraso
+526,2026-02-21,email,"oi, vocês entregam no sábado. aguardo retorno",outro
+527,2026-02-21,chat,voces tem loja fisica,outro
+528,2026-02-22,app,"por favor, o pix nao foi reconhecido?",pagamento
+529,2026-02-22,email,"boa tarde, o boleto venceu",pagamento
+530,2026-02-22,email,O PRODUTO CHEGOU QUEBRADO,troca
+531,2026-02-22,app,"boa tarde, a compra foi recusada no cartao e quero a segunda via do boleto. aguardo retorno",pagamento
+532,2026-02-22,chat,"OLA, MEU PEDIDO AINDA NAO CHEGOU!!",atraso
+533,2026-02-23,app,"boa tarde, não quero trocar nada, só saber quando chega!!",atraso
+534,2026-02-23,chat,"BOA TARDE, QUERO TROCAR A FORMA DE PAGAMENTO DO BOLETO PARA PIX?",pagamento
+535,2026-02-23,app,NÃO CONSIGO PAGAR COM CARTÃO. PRECISO DE AJUDA,pagamento
+536,2026-02-23,chat,"oi, o prazo de entrega já passou e comprei faz 3 dias e nada",atraso
+537,2026-02-23,chat,"olá, como uso o cupom de aniversário. aguardo retorno",outro
+538,2026-02-23,chat,"boa noite, quero trocar o tamanho e a caixa chegou amassada e o produto riscado. e urgente",troca
+539,2026-02-24,chat,quero o reembolso da devolução e a caixa chegou amassada e o produto riscado?,troca
+540,2026-02-24,chat,"BOA NOITE, VOCÊS ENTREGAM NO SÁBADO. PEDIDO 65338",outro
+541,2026-02-24,email,"por favor, a compra foi recusada no cartão?",pagamento
+542,2026-02-24,app,quero trocar o tamanho. obrigado,troca
+543,2026-02-24,email,"bom dia, a peca nao serviu. aguardo retorno",troca
+544,2026-02-24,app,veio um item diferente do que eu pedi?,troca
+545,2026-02-24,chat,"olá, quero mudar meu endereço de cadastro e qual o horário do atendimento. aguardo retorno",outro
+546,2026-02-24,app,"bom dia, não consigo pagar com cartão?",pagamento
+547,2026-02-24,app,a caixa chegou amassada e o produto riscado. pedido 44105,troca
+548,2026-02-24,app,"por favor, o rastreio está parado faz 13 dias?",atraso
+549,2026-02-24,app,a peca nao serviu,troca
+550,2026-02-24,app,"boa tarde, o produto chegou quebrado. aguardo retorno",troca
+551,2026-02-25,app,"oi, nao quero trocar nada, so saber quando chega",atraso
+552,2026-02-25,chat,"oi, cadê meu pedido. pedido 62397",atraso
+553,2026-02-25,app,"boa noite, o pagamento ficou pendente e o estorno ainda nao apareceu na fatura. aguardo retorno",pagamento
+554,2026-02-25,app,o pagamento foi aprovado mas o produto veio com defeito. é urgente,troca
+555,2026-02-25,chat,meu pedido ainda nao chegou,atraso
+556,2026-02-25,chat,"BOA NOITE, A TRANSPORTADORA NAO ATUALIZA O RASTREIO. PEDIDO 40403",atraso
+557,2026-02-25,chat,O PEDIDO CHEGOU MAS COBRARAM DUAS VEZES. É URGENTE,pagamento
+558,2026-02-25,app,"por favor, a entrega está atrasada e comprei faz 11 dias e nada. é urgente",atraso
+559,2026-02-25,email,O PRAZO DE ENTREGA JÁ PASSOU. OBRIGADO,atraso
+560,2026-02-25,chat,"bom dia, a compra foi recusada no cartao. obrigado",pagamento
+561,2026-02-26,app,"chegou atrasado e ainda veio errado, quero trocar. é urgente",troca
+562,2026-02-26,chat,"boa tarde, quero trocar o tamanho. obrigado",troca
+563,2026-02-26,chat,"POR FAVOR, VOCÊS VENDEM PARA EMPRESA. OBRIGADO",outro
+564,2026-02-26,email,"OLÁ, A PEÇA NÃO SERVIU. AGUARDO RETORNO",troca
+565,2026-02-26,email,"não é sobre entrega nem pagamento, vocês têm vaga de emprego. aguardo retorno",outro
+566,2026-02-26,chat,"boa noite, o rastreio esta parado faz 5 dias!!",atraso
+567,2026-02-26,app,CADÊ MEU PEDIDO,atraso
+568,2026-02-26,app,"boa noite, qual o horário do atendimento. preciso de ajuda",outro
+569,2026-02-26,chat,quero trocar o tamanho e a caixa chegou amassada e o produto riscado. pedido 48451,troca
+570,2026-02-26,app,"por favor, o pagamento ficou pendente. é urgente",pagamento
+571,2026-02-27,chat,o produto veio com defeito. pedido 45714,troca
+572,2026-02-27,chat,"BOA NOITE, O PRAZO DE ENTREGA JA PASSOU",atraso
+573,2026-02-27,chat,"por favor, a caixa chegou amassada e o produto riscado e quero devolver o produto",troca
+574,2026-02-27,app,"boa noite, quero o reembolso da devolução",troca
+575,2026-02-28,chat,"bom dia, como faço a troca. é urgente",troca
+576,2026-02-28,app,"BOA TARDE, QUANDO MEU PEDIDO VAI CHEGAR. É URGENTE",atraso
+577,2026-02-28,app,o prazo de entrega já passou!!,atraso
+578,2026-02-28,chat,"boa tarde, o pagamento ficou pendente. aguardo retorno",pagamento
+579,2026-02-28,chat,"oi, tem esse produto em outra cor. pedido 15276",outro
+580,2026-02-28,chat,"boa noite, como uso o cupom de aniversário. pedido 69829",outro
+581,2026-02-28,chat,quero o reembolso da devolução,troca
+582,2026-02-28,chat,"boa noite, o pedido não saiu para entrega e meu pedido ainda não chegou. obrigado",atraso
+583,2026-02-28,app,"boa tarde, vocês entregam no sábado. obrigado",outro
+584,2026-02-28,email,"OI, QUERO A SEGUNDA VIA DO BOLETO?",pagamento
+585,2026-02-28,app,meu pedido ainda nao chegou,atraso
+586,2026-02-28,app,"oi, o rastreio está parado faz 8 dias. é urgente",atraso
+587,2026-02-28,chat,"bom dia, o boleto venceu. aguardo retorno",pagamento
+588,2026-03-01,app,"boa tarde, comprei faz 9 dias e nada",atraso
+589,2026-03-01,chat,"bom dia, meu pedido ainda nao chegou?",atraso
+590,2026-03-01,app,CADÊ MEU PEDIDO!!,atraso
+591,2026-03-01,chat,"oi, quero devolver o produto. pedido 36349",troca
+592,2026-03-01,app,"boa noite, quero trocar o tamanho. aguardo retorno",troca
+593,2026-03-01,app,"boa noite, qual o horário do atendimento!!",outro
+594,2026-03-01,email,"boa noite, o prazo de entrega já passou?",atraso
+595,2026-03-02,email,"por favor, quero devolver o produto!!",troca
+596,2026-03-02,email,nao consigo pagar com cartao. e urgente,pagamento
+597,2026-03-02,chat,era para chegar ontem?,atraso
+598,2026-03-02,app,"oi, cobraram duas vezes no cartão",pagamento
+599,2026-03-02,app,"por favor, a entrega está atrasada. preciso de ajuda",atraso
+600,2026-03-02,app,"oi, o pix não foi reconhecido?",pagamento
+601,2026-03-02,app,"OLÁ, ERA PARA CHEGAR ONTEM",atraso
+602,2026-03-02,chat,"boa tarde, quero a segunda via do boleto. é urgente",pagamento
+603,2026-03-02,app,"boa noite, chegou atrasado e ainda veio errado, quero trocar. é urgente",troca
+604,2026-03-02,chat,"boa noite, a caixa chegou amassada e o produto riscado e a peça não serviu. preciso de ajuda",troca
+605,2026-03-03,chat,"boa tarde, veio a cor errada",troca
+606,2026-03-03,email,"boa tarde, vocês vendem para empresa",outro
+607,2026-03-03,chat,"boa tarde, o desconto do cupom nao entrou e o estorno ainda nao apareceu na fatura. preciso de ajuda",pagamento
+608,2026-03-03,email,era para chegar ontem,atraso
+609,2026-03-03,chat,meu pedido ainda não chegou. obrigado,atraso
+610,2026-03-03,email,o estorno ainda não apareceu na fatura e cobraram duas vezes no cartão. preciso de ajuda,pagamento
+611,2026-03-03,chat,a entrega está atrasada e cadê meu pedido!!,atraso
+612,2026-03-03,email,"boa noite, a entrega está atrasada e o rastreio está parado faz 13 dias",atraso
+613,2026-03-03,chat,"boa tarde, tem esse produto em outra cor e como uso o cupom de aniversario",outro
+614,2026-03-04,email,"oi, quando meu pedido vai chegar",atraso
+615,2026-03-04,email,"olá, quando meu pedido vai chegar. preciso de ajuda",atraso
+616,2026-03-04,chat,"boa tarde, o pedido chegou mas cobraram duas vezes!!",pagamento
+617,2026-03-04,chat,"por favor, paguei e o pedido continua aguardando pagamento. preciso de ajuda",pagamento
+618,2026-03-04,chat,"por favor, não é sobre entrega nem pagamento, vocês têm vaga de emprego. aguardo retorno",outro
+619,2026-03-04,email,"por favor, quero devolver o produto. é urgente",troca
+620,2026-03-04,chat,o produto tem garantia e quero cancelar o recebimento de e-mails!!,outro
+621,2026-03-04,app,quando meu pedido vai chegar. preciso de ajuda,atraso
+622,2026-03-04,chat,"bom dia, era para chegar ontem",atraso
+623,2026-03-04,email,"por favor, a compra foi recusada no cartão",pagamento
+624,2026-03-04,app,"boa tarde, comprei faz 4 dias e nada e comprei faz 4 dias e nada. aguardo retorno",atraso
+625,2026-03-05,email,"oi, o rastreio está parado faz 11 dias!!",atraso
+626,2026-03-05,app,o produto veio com defeito?,troca
+627,2026-03-05,email,"boa tarde, o estorno ainda não apareceu na fatura!!",pagamento
+628,2026-03-05,chat,"ola, como faco a troca",troca
+629,2026-03-05,app,"por favor, qual o horario do atendimento. obrigado",outro
+630,2026-03-05,app,"oi, o boleto venceu",pagamento
+631,2026-03-05,chat,era para chegar ontem. é urgente,atraso
+632,2026-03-05,app,"ola, o estorno ainda nao apareceu na fatura. aguardo retorno",pagamento
+633,2026-03-05,chat,"boa tarde, comprei faz 3 dias e nada. pedido 35740",atraso
+634,2026-03-06,app,"boa tarde, paguei e o pedido continua aguardando pagamento e o pagamento ficou pendente",pagamento
+635,2026-03-06,app,"nao quero trocar nada, so saber quando chega!!",atraso
+636,2026-03-06,chat,"ola, quero devolver o produto?",troca
+637,2026-03-06,chat,"boa noite, o pix não foi reconhecido. obrigado",pagamento
+638,2026-03-06,chat,o pagamento ficou pendente e o estorno ainda nao apareceu na fatura. preciso de ajuda,pagamento
+639,2026-03-06,chat,"oi, comprei faz 15 dias e nada. aguardo retorno",atraso
+640,2026-03-06,chat,"BOA NOITE, O PAGAMENTO FICOU PENDENTE",pagamento
+641,2026-03-06,chat,"por favor, a transportadora não atualiza o rastreio e o prazo de entrega já passou",atraso
+642,2026-03-06,chat,"por favor, meu pedido ainda não chegou e o prazo de entrega já passou. obrigado",atraso
+643,2026-03-06,app,"bom dia, a entrega está atrasada. aguardo retorno",atraso
+644,2026-03-07,app,CADÊ MEU PEDIDO!!,atraso
+645,2026-03-07,chat,"BOA NOITE, NÃO CONSIGO PAGAR COM CARTÃO",pagamento
+646,2026-03-07,chat,"POR FAVOR, A COMPRA FOI RECUSADA NO CARTÃO. OBRIGADO",pagamento
+647,2026-03-07,chat,"olá, a entrega está atrasada!!",atraso
+648,2026-03-07,chat,"boa tarde, não consigo pagar com cartão. preciso de ajuda",pagamento
+649,2026-03-07,chat,"boa noite, não consigo pagar com cartão",pagamento
+650,2026-03-07,email,"BOA TARDE, O PRODUTO VEIO COM DEFEITO",troca
+651,2026-03-07,app,"boa tarde, o pix não foi reconhecido. obrigado",pagamento
+652,2026-03-07,app,"BOM DIA, COMO FACO A TROCA. OBRIGADO",troca
+653,2026-03-07,email,o produto veio com defeito e quero o reembolso da devolucao,troca
+654,2026-03-08,email,"por favor, qual o horário do atendimento",outro
+655,2026-03-08,app,"boa noite, a entrega esta atrasada. e urgente",atraso
+656,2026-03-08,chat,a compra foi recusada no cartão,pagamento
+657,2026-03-08,email,"oi, o pedido não saiu para entrega",atraso
+658,2026-03-08,app,o prazo de entrega já passou. obrigado,atraso
+659,2026-03-08,email,"bom dia, o pedido não saiu para entrega. preciso de ajuda",atraso
+660,2026-03-08,app,"oi, veio a cor errada e quero trocar o tamanho. é urgente",troca
+661,2026-03-08,app,"olá, quero trocar a forma de pagamento do boleto para pix?",pagamento
+662,2026-03-08,app,"boa tarde, a peça não serviu",troca
+663,2026-03-08,chat,"boa tarde, voces vendem para empresa. preciso de ajuda",outro
+664,2026-03-08,chat,era para chegar ontem. obrigado,atraso
+665,2026-03-08,email,o pedido não saiu para entrega?,atraso
+666,2026-03-08,app,paguei e o pedido continua aguardando pagamento e cobraram duas vezes no cartão. preciso de ajuda,pagamento
+667,2026-03-09,chat,cade meu pedido,atraso
+668,2026-03-09,chat,"boa tarde, como faço a troca e o produto veio com defeito. obrigado",troca
+669,2026-03-09,email,"boa noite, cadê meu pedido!!",atraso
+670,2026-03-09,chat,"boa tarde, cadê meu pedido. obrigado",atraso
+671,2026-03-09,chat,"boa noite, qual o horário do atendimento. obrigado",outro
+672,2026-03-09,app,"boa tarde, o estorno ainda nao apareceu na fatura?",pagamento
+673,2026-03-09,email,vocês vendem para empresa. aguardo retorno,outro
+674,2026-03-10,email,O BOLETO VENCEU. OBRIGADO,pagamento
+675,2026-03-10,app,"por favor, paguei no pix faz 9 dias e o pedido não chegou. obrigado",atraso
+676,2026-03-10,app,tem esse produto em outra cor!!,outro
+677,2026-03-10,email,"OI, VOCÊS TÊM LOJA FÍSICA. PRECISO DE AJUDA",outro
+678,2026-03-10,chat,"BOA TARDE, CADÊ MEU PEDIDO E QUANDO MEU PEDIDO VAI CHEGAR. PEDIDO 90339",atraso
+679,2026-03-10,app,"boa noite, o estorno ainda não apareceu na fatura",pagamento
+680,2026-03-10,app,"boa noite, meu pedido ainda não chegou?",atraso
+681,2026-03-10,chat,"POR FAVOR, A TRANSPORTADORA NÃO ATUALIZA O RASTREIO?",atraso
+682,2026-03-10,chat,"oi, a entrega esta atrasada",atraso
+683,2026-03-10,chat,"por favor, meu pedido ainda nao chegou",atraso
+684,2026-03-10,app,"bom dia, a transportadora nao atualiza o rastreio. e urgente",atraso
+685,2026-03-10,email,"boa noite, o pedido não saiu para entrega. é urgente",atraso
+686,2026-03-11,chat,"por favor, cadê meu pedido e a transportadora não atualiza o rastreio",atraso
+687,2026-03-11,app,como faço a troca!!,troca
+688,2026-03-11,email,o boleto venceu e o estorno ainda não apareceu na fatura. aguardo retorno,pagamento
+689,2026-03-11,chat,vocês vendem para empresa. preciso de ajuda,outro
+690,2026-03-11,email,veio a cor errada. é urgente,troca
+691,2026-03-11,chat,comprei faz 2 dias e nada. pedido 65252,atraso
+692,2026-03-11,app,"por favor, comprei faz 6 dias e nada!!",atraso
+693,2026-03-11,email,veio um item diferente do que eu pedi e a caixa chegou amassada e o produto riscado. pedido 47449,troca
+694,2026-03-11,app,"oi, a entrega está atrasada. pedido 37147",atraso
+695,2026-03-11,app,"oi, a transportadora nao atualiza o rastreio e meu pedido ainda nao chegou",atraso
+696,2026-03-11,chat,o pedido não saiu para entrega,atraso
+697,2026-03-11,chat,quando meu pedido vai chegar!!,atraso
+698,2026-03-11,chat,cadê meu pedido. pedido 49547,atraso
+699,2026-03-11,email,não consigo pagar com cartão. é urgente,pagamento
+700,2026-03-11,chat,"BOA TARDE, VEIO UM ITEM DIFERENTE DO QUE EU PEDI",troca
+701,2026-03-11,email,"oi, o produto veio com defeito e a peça não serviu. preciso de ajuda",troca
+702,2026-03-12,app,como uso o cupom de aniversário. obrigado,outro
+703,2026-03-12,app,"olá, chegou atrasado e ainda veio errado, quero trocar!!",troca
+704,2026-03-12,email,"oi, o rastreio esta parado faz 2 dias e quando meu pedido vai chegar. preciso de ajuda",atraso
+705,2026-03-12,chat,"boa noite, o produto chegou quebrado e quero o reembolso da devolução. é urgente",troca
+706,2026-03-12,app,o desconto do cupom não entrou. aguardo retorno,pagamento
+707,2026-03-13,chat,"olá, o estorno ainda não apareceu na fatura e o desconto do cupom não entrou. pedido 68742",pagamento
+708,2026-03-13,chat,o prazo de entrega já passou,atraso
+709,2026-03-13,chat,"boa tarde, o prazo de entrega já passou e comprei faz 3 dias e nada",atraso
+710,2026-03-13,chat,voces entregam no sabado. e urgente,outro
+711,2026-03-13,app,quando meu pedido vai chegar?,atraso
+712,2026-03-13,app,"por favor, o pix não foi reconhecido. aguardo retorno",pagamento
+713,2026-03-13,app,"olá, o rastreio está parado faz 5 dias",atraso
+714,2026-03-13,chat,quero trocar o tamanho,troca
+715,2026-03-13,email,quero devolver o produto e quero o reembolso da devolução,troca
+716,2026-03-13,email,o pedido nao saiu para entrega. pedido 51598,atraso
+717,2026-03-14,app,a peça não serviu,troca
+718,2026-03-14,chat,"olá, quero devolver o produto e como faço a troca. preciso de ajuda",troca
+719,2026-03-14,chat,"olá, qual o horário do atendimento",outro
+720,2026-03-14,chat,"olá, como uso o cupom de aniversário?",outro
+721,2026-03-14,chat,"por favor, o pagamento ficou pendente?",pagamento
+722,2026-03-14,app,"chegou atrasado e ainda veio errado, quero trocar",troca
+723,2026-03-15,app,"oi, meu pedido ainda nao chegou e o pedido nao saiu para entrega. pedido 13674",atraso
+724,2026-03-15,chat,"oi, quero cancelar o recebimento de e-mails",outro
+725,2026-03-15,email,"oi, chegou atrasado e ainda veio errado, quero trocar. pedido 66258",troca
+726,2026-03-15,chat,"BOA TARDE, O DESCONTO DO CUPOM NÃO ENTROU E O BOLETO VENCEU",pagamento
+727,2026-03-15,app,a entrega está atrasada!!,atraso
+728,2026-03-15,app,NÃO CONSIGO PAGAR COM CARTÃO E A COMPRA FOI RECUSADA NO CARTÃO?,pagamento
+729,2026-03-15,chat,"boa noite, paguei e o pedido continua aguardando pagamento e o pix nao foi reconhecido. preciso de ajuda",pagamento
+730,2026-03-15,chat,"POR FAVOR, ERA PARA CHEGAR ONTEM",atraso
+731,2026-03-15,app,"boa noite, meu pedido ainda não chegou. pedido 12938",atraso
+732,2026-03-15,app,"olá, comprei faz 9 dias e nada e o pedido não saiu para entrega!!",atraso
+733,2026-03-15,chat,"bom dia, o pedido nao saiu para entrega. obrigado",atraso
+734,2026-03-15,chat,"boa tarde, o prazo de entrega já passou!!",atraso
+735,2026-03-16,app,"por favor, o produto tem garantia e quero elogiar o atendimento",outro
+736,2026-03-16,email,"bom dia, vocês têm loja física",outro
+737,2026-03-16,app,como uso o cupom de aniversário. pedido 52590,outro
+738,2026-03-16,app,"boa noite, era para chegar ontem e a entrega está atrasada. pedido 56670",atraso
+739,2026-03-16,email,"bom dia, quero trocar o tamanho. preciso de ajuda",troca
+740,2026-03-16,app,"boa tarde, voces tem loja fisica e voces tem loja fisica",outro
+741,2026-03-16,chat,a entrega esta atrasada,atraso
+742,2026-03-16,app,"BOM DIA, A TRANSPORTADORA NAO ATUALIZA O RASTREIO",atraso
+743,2026-03-16,email,"por favor, era para chegar ontem e o rastreio esta parado faz 11 dias. e urgente",atraso
+744,2026-03-17,chat,"olá, não consigo pagar com cartão!!",pagamento
+745,2026-03-17,chat,comprei faz 12 dias e nada e o prazo de entrega já passou,atraso
+746,2026-03-17,app,"bom dia, quero o reembolso da devolução",troca
+747,2026-03-17,chat,"bom dia, nao consigo pagar com cartao",pagamento
+748,2026-03-17,chat,"por favor, o produto chegou quebrado!!",troca
+749,2026-03-17,email,"CHEGOU ATRASADO E AINDA VEIO ERRADO, QUERO TROCAR!!",troca
+750,2026-03-17,chat,"por favor, a transportadora nao atualiza o rastreio e quando meu pedido vai chegar. pedido 92590",atraso
+751,2026-03-17,chat,"BOA TARDE, O ESTORNO AINDA NÃO APARECEU NA FATURA",pagamento
+752,2026-03-17,email,"por favor, comprei faz 15 dias e nada. aguardo retorno",atraso
+753,2026-03-17,app,"OI, O PRODUTO VEIO COM DEFEITO. OBRIGADO",troca
+754,2026-03-17,email,"boa noite, quero o reembolso da devolução",troca
+755,2026-03-18,app,quero elogiar o atendimento e tem esse produto em outra cor,outro
+756,2026-03-18,app,"bom dia, qual o horário do atendimento. é urgente",outro
+757,2026-03-18,chat,"bom dia, a peça não serviu!!",troca
+758,2026-03-18,app,"bom dia, a peça não serviu. aguardo retorno",troca
+759,2026-03-18,email,"oi, quero o reembolso da devolução",troca
+760,2026-03-18,chat,"BOM DIA, O DESCONTO DO CUPOM NAO ENTROU. AGUARDO RETORNO",pagamento
+761,2026-03-18,chat,"olá, veio a cor errada. preciso de ajuda",troca
+762,2026-03-18,app,"boa noite, o estorno ainda não apareceu na fatura",pagamento
+763,2026-03-18,chat,comprei faz 2 dias e nada e o rastreio esta parado faz 2 dias. preciso de ajuda,atraso
+764,2026-03-18,app,"OI, QUERO O REEMBOLSO DA DEVOLUCAO!!",troca
+765,2026-03-19,chat,"oi, qual o horario do atendimento e voces vendem para empresa",outro
+766,2026-03-19,email,"olá, veio a cor errada?",troca
+767,2026-03-19,app,quero a segunda via do boleto,pagamento
+768,2026-03-19,chat,quero devolver o produto e o produto chegou quebrado. preciso de ajuda,troca
+769,2026-03-19,chat,quero o reembolso da devolução!!,troca
+770,2026-03-19,chat,"OI, QUERO MUDAR MEU ENDERECO DE CADASTRO. OBRIGADO",outro
+771,2026-03-20,app,"olá, o boleto venceu",pagamento
+772,2026-03-20,chat,"oi, quero a segunda via do boleto",pagamento
+773,2026-03-20,chat,quero o reembolso da devolução. obrigado,troca
+774,2026-03-20,app,"por favor, comprei faz 3 dias e nada. e urgente",atraso
+775,2026-03-20,app,"boa noite, comprei faz 10 dias e nada. preciso de ajuda",atraso
+776,2026-03-20,chat,"olá, a entrega está atrasada. aguardo retorno",atraso
+777,2026-03-20,app,o pedido nao saiu para entrega. pedido 98383,atraso
+778,2026-03-20,chat,"boa noite, a compra foi recusada no cartão",pagamento
+779,2026-03-20,email,"não é sobre entrega nem pagamento, vocês têm vaga de emprego. pedido 19420",outro
+780,2026-03-20,chat,"oi, o produto chegou quebrado",troca
+781,2026-03-20,chat,"olá, vocês vendem para empresa e vocês têm loja física. aguardo retorno",outro
+782,2026-03-20,chat,"boa tarde, o pedido não saiu para entrega. pedido 62840",atraso
+783,2026-03-20,chat,o prazo de entrega já passou. obrigado,atraso
+784,2026-03-21,email,"bom dia, quero elogiar o atendimento",outro
+785,2026-03-21,email,"boa noite, paguei e o pedido continua aguardando pagamento",pagamento
+786,2026-03-21,app,"olá, o rastreio está parado faz 2 dias e o prazo de entrega já passou",atraso
+787,2026-03-21,chat,"BOA NOITE, COMPREI FAZ 7 DIAS E NADA",atraso
+788,2026-03-21,app,"bom dia, o pix nao foi reconhecido e a compra foi recusada no cartao",pagamento
+789,2026-03-21,app,"boa tarde, quero o reembolso da devolucao!!",troca
+790,2026-03-21,app,"boa noite, veio um item diferente do que eu pedi. é urgente",troca
+791,2026-03-21,chat,"por favor, o pedido não saiu para entrega",atraso
+792,2026-03-21,chat,o desconto do cupom não entrou. pedido 14509,pagamento
+793,2026-03-21,chat,cade meu pedido?,atraso
+794,2026-03-21,app,A ENTREGA ESTA ATRASADA E O RASTREIO ESTA PARADO FAZ 8 DIAS. OBRIGADO,atraso
+795,2026-03-22,app,quero devolver o produto,troca
+796,2026-03-22,app,"boa noite, não consigo pagar com cartão",pagamento
+797,2026-03-22,chat,"BOA NOITE, VEIO A COR ERRADA E O PRODUTO VEIO COM DEFEITO",troca
+798,2026-03-22,chat,A ENTREGA ESTA ATRASADA. PEDIDO 52939,atraso
+799,2026-03-22,chat,o prazo de entrega já passou. é urgente,atraso
+800,2026-03-22,chat,"por favor, o pagamento ficou pendente!!",pagamento
+801,2026-03-22,app,"olá, qual o horário do atendimento?",outro
+802,2026-03-22,app,"por favor, o produto veio com defeito. obrigado",troca
+803,2026-03-22,app,"oi, o produto tem garantia. e urgente",outro
+804,2026-03-22,app,"oi, cadê meu pedido. preciso de ajuda",atraso
+805,2026-03-22,chat,"boa noite, o produto veio com defeito!!",troca
+806,2026-03-22,chat,"boa tarde, cadê meu pedido",atraso
+807,2026-03-22,chat,"boa tarde, veio um item diferente do que eu pedi. aguardo retorno",troca
+808,2026-03-23,chat,como uso o cupom de aniversário. é urgente,outro
+809,2026-03-23,app,"bom dia, o produto veio com defeito. é urgente",troca
+810,2026-03-23,app,"olá, o produto chegou quebrado. aguardo retorno",troca
+811,2026-03-23,chat,veio a cor errada e quero o reembolso da devolução. é urgente,troca
+812,2026-03-23,chat,"oi, paguei e o pedido continua aguardando pagamento. pedido 85758",pagamento
+813,2026-03-23,chat,"ola, o pix nao foi reconhecido e o pix nao foi reconhecido. obrigado",pagamento
+814,2026-03-23,email,"bom dia, veio um item diferente do que eu pedi e veio um item diferente do que eu pedi",troca
+815,2026-03-23,app,"por favor, era para chegar ontem e quando meu pedido vai chegar. pedido 91090",atraso
+816,2026-03-23,chat,cadê meu pedido!!,atraso
+817,2026-03-23,chat,meu pedido ainda não chegou e quando meu pedido vai chegar,atraso
+818,2026-03-23,app,QUAL O HORÁRIO DO ATENDIMENTO. PRECISO DE AJUDA,outro
+819,2026-03-23,app,"BOA TARDE, QUERO O REEMBOLSO DA DEVOLUÇÃO E VEIO A COR ERRADA",troca
+820,2026-03-23,email,"boa noite, nao consigo pagar com cartao?",pagamento
+821,2026-03-24,email,"oi, meu pedido ainda nao chegou!!",atraso
+822,2026-03-24,app,"boa tarde, o boleto venceu e o estorno ainda nao apareceu na fatura. e urgente",pagamento
+823,2026-03-24,chat,"boa noite, o pagamento foi aprovado mas o produto veio com defeito",troca
+824,2026-03-24,chat,"OI, O PRAZO DE ENTREGA JÁ PASSOU. PRECISO DE AJUDA",atraso
+825,2026-03-24,app,"oi, quero a segunda via do boleto?",pagamento
+826,2026-03-24,chat,o pedido não saiu para entrega!!,atraso
+827,2026-03-24,chat,"olá, o pedido não saiu para entrega e o rastreio está parado faz 5 dias. preciso de ajuda",atraso
+828,2026-03-24,email,"bom dia, não consigo pagar com cartão",pagamento
+829,2026-03-25,chat,"boa tarde, a transportadora não atualiza o rastreio e meu pedido ainda não chegou. preciso de ajuda",atraso
+830,2026-03-25,app,quero elogiar o atendimento?,outro
+831,2026-03-25,email,"por favor, quero trocar a forma de pagamento do boleto para pix. aguardo retorno",pagamento
+832,2026-03-25,app,"por favor, quero cancelar o recebimento de e-mails",outro
+833,2026-03-25,email,"boa noite, a transportadora não atualiza o rastreio. aguardo retorno",atraso
+834,2026-03-26,chat,"bom dia, quero trocar a forma de pagamento do boleto para pix?",pagamento
+835,2026-03-26,chat,"oi, meu pedido ainda não chegou. obrigado",atraso
+836,2026-03-26,app,"boa tarde, o produto tem garantia. é urgente",outro
+837,2026-03-26,app,"por favor, veio a cor errada",troca
+838,2026-03-26,chat,"bom dia, o produto tem garantia e vocês têm loja física",outro
+839,2026-03-26,chat,"boa tarde, meu pedido ainda nao chegou?",atraso
+840,2026-03-26,chat,"bom dia, quero devolver o produto. e urgente",troca
+841,2026-03-26,app,a compra foi recusada no cartão. obrigado,pagamento
+842,2026-03-27,chat,"boa noite, vocês entregam no sábado. aguardo retorno",outro
+843,2026-03-27,app,"OLÁ, TEM ESSE PRODUTO EM OUTRA COR E VOCÊS TÊM LOJA FÍSICA. PRECISO DE AJUDA",outro
+844,2026-03-27,app,"boa tarde, voces tem loja fisica",outro
+845,2026-03-27,chat,"POR FAVOR, O BOLETO VENCEU!!",pagamento
+846,2026-03-27,app,"BOA TARDE, COMO USO O CUPOM DE ANIVERSÁRIO. AGUARDO RETORNO",outro
+847,2026-03-27,chat,"bom dia, vocês têm loja física. pedido 82176",outro
+848,2026-03-28,chat,"olá, vocês vendem para empresa e como uso o cupom de aniversário?",outro
+849,2026-03-28,email,"ola, quando meu pedido vai chegar. e urgente",atraso
+850,2026-03-28,chat,"boa noite, o pix não foi reconhecido e o estorno ainda não apareceu na fatura. aguardo retorno",pagamento
+851,2026-03-28,app,"bom dia, veio a cor errada. é urgente",troca
+852,2026-03-28,email,"POR FAVOR, O PRODUTO VEIO COM DEFEITO. E URGENTE",troca
+853,2026-03-28,chat,"boa tarde, vocês entregam no sábado. pedido 76249",outro
+854,2026-03-28,chat,"boa noite, não quero trocar nada, só saber quando chega. pedido 57327",atraso
+855,2026-03-28,app,paguei no pix faz 11 dias e o pedido nao chegou. preciso de ajuda,atraso
+856,2026-03-29,email,"por favor, cobraram duas vezes no cartao",pagamento
+857,2026-03-29,chat,"BOM DIA, NÃO CONSIGO PAGAR COM CARTÃO. OBRIGADO",pagamento
+858,2026-03-29,app,"ola, nao consigo pagar com cartao",pagamento
+859,2026-03-29,app,"boa tarde, não quero trocar nada, só saber quando chega",atraso
+860,2026-03-29,chat,"olá, o produto chegou quebrado",troca
+861,2026-03-29,chat,O PRODUTO VEIO COM DEFEITO E QUERO DEVOLVER O PRODUTO!!,troca
+862,2026-03-29,app,"BOA NOITE, O PRAZO DE ENTREGA JÁ PASSOU E O PRAZO DE ENTREGA JÁ PASSOU. PRECISO DE AJUDA",atraso
+863,2026-03-29,chat,"BOM DIA, A PEÇA NÃO SERVIU. PEDIDO 56942",troca
+864,2026-03-30,app,"POR FAVOR, O DESCONTO DO CUPOM NÃO ENTROU",pagamento
+865,2026-03-30,email,"boa tarde, paguei e o pedido continua aguardando pagamento. é urgente",pagamento
+866,2026-03-30,chat,o pagamento ficou pendente,pagamento
+867,2026-03-30,chat,o prazo de entrega já passou?,atraso
+868,2026-03-30,chat,"bom dia, meu pedido ainda não chegou. preciso de ajuda",atraso
+869,2026-03-30,chat,"POR FAVOR, ERA PARA CHEGAR ONTEM",atraso
+870,2026-03-30,chat,vocês vendem para empresa e como uso o cupom de aniversário. é urgente,outro
+871,2026-03-30,email,"olá, vocês vendem para empresa e vocês têm loja física?",outro
+872,2026-03-30,email,como uso o cupom de aniversário?,outro
+873,2026-03-30,chat,"BOA TARDE, O PAGAMENTO FICOU PENDENTE?",pagamento
+874,2026-03-30,app,"olá, quero elogiar o atendimento!!",outro
+875,2026-03-30,email,"boa tarde, o pedido chegou mas cobraram duas vezes. obrigado",pagamento
+876,2026-03-30,email,"boa tarde, o pedido não saiu para entrega. obrigado",atraso
+877,2026-03-30,chat,"oi, nao consigo pagar com cartao?",pagamento
+878,2026-03-30,chat,"boa noite, o pedido não saiu para entrega",atraso
+879,2026-03-31,chat,O BOLETO VENCEU,pagamento
+880,2026-03-31,app,"boa noite, o pix nao foi reconhecido. e urgente",pagamento
+881,2026-03-31,app,"por favor, vocês têm loja física. aguardo retorno",outro
+882,2026-03-31,app,"olá, veio um item diferente do que eu pedi. pedido 51404",troca
+883,2026-03-31,email,"boa tarde, como uso o cupom de aniversario. e urgente",outro
+884,2026-03-31,email,"boa noite, paguei no pix faz 9 dias e o pedido nao chegou",atraso
+885,2026-03-31,chat,"boa tarde, a caixa chegou amassada e o produto riscado. preciso de ajuda",troca
+886,2026-03-31,chat,"por favor, quando meu pedido vai chegar e comprei faz 7 dias e nada. pedido 62898",atraso
+887,2026-03-31,app,"ola, comprei faz 15 dias e nada e o pedido nao saiu para entrega. obrigado",atraso
+888,2026-03-31,chat,o rastreio está parado faz 4 dias. aguardo retorno,atraso
+889,2026-03-31,chat,o pedido não saiu para entrega!!,atraso
+890,2026-03-31,chat,"boa tarde, o rastreio está parado faz 13 dias e era para chegar ontem. preciso de ajuda",atraso
+891,2026-03-31,chat,"boa noite, a compra foi recusada no cartão",pagamento
+892,2026-03-31,email,"OI, A TRANSPORTADORA NÃO ATUALIZA O RASTREIO E CADÊ MEU PEDIDO. É URGENTE",atraso
+893,2026-04-01,chat,"por favor, quero devolver o produto",troca
+894,2026-04-01,app,"BOA TARDE, QUERO MUDAR MEU ENDEREÇO DE CADASTRO E QUERO CANCELAR O RECEBIMENTO DE E-MAILS. PEDIDO 73322",outro
+895,2026-04-01,chat,"boa tarde, o prazo de entrega já passou e o rastreio está parado faz 4 dias",atraso
+896,2026-04-01,email,o desconto do cupom nao entrou,pagamento
+897,2026-04-01,chat,"bom dia, a entrega esta atrasada. aguardo retorno",atraso
+898,2026-04-01,chat,cadê meu pedido e o prazo de entrega já passou. pedido 43226,atraso
+899,2026-04-01,app,"olá, como faço a troca. aguardo retorno",troca
+900,2026-04-01,chat,o pagamento ficou pendente. pedido 15599,pagamento
+901,2026-04-02,app,"BOA TARDE, QUERO MUDAR MEU ENDEREÇO DE CADASTRO E QUERO ELOGIAR O ATENDIMENTO",outro
+902,2026-04-02,email,"POR FAVOR, O PRODUTO CHEGOU QUEBRADO. PRECISO DE AJUDA",troca
+903,2026-04-02,chat,"por favor, o rastreio esta parado faz 9 dias",atraso
+904,2026-04-02,chat,quero a segunda via do boleto,pagamento
+905,2026-04-02,app,"boa noite, o estorno ainda nao apareceu na fatura e nao consigo pagar com cartao",pagamento
+906,2026-04-02,chat,"BOM DIA, A CAIXA CHEGOU AMASSADA E O PRODUTO RISCADO E QUERO O REEMBOLSO DA DEVOLUÇÃO. PEDIDO 19987",troca
+907,2026-04-02,chat,"boa noite, a entrega esta atrasada. e urgente",atraso
+908,2026-04-02,app,vocês entregam no sábado,outro
+909,2026-04-02,app,a entrega está atrasada. obrigado,atraso
+910,2026-04-02,email,"bom dia, quando meu pedido vai chegar. é urgente",atraso
+911,2026-04-03,email,"BOM DIA, QUERO ELOGIAR O ATENDIMENTO. PEDIDO 46689",outro
+912,2026-04-03,chat,"boa noite, não consigo pagar com cartão e o pix não foi reconhecido. aguardo retorno",pagamento
+913,2026-04-03,chat,o pagamento ficou pendente. aguardo retorno,pagamento
+914,2026-04-03,chat,quero trocar o tamanho. preciso de ajuda,troca
+915,2026-04-03,chat,"BOM DIA, O PRAZO DE ENTREGA JÁ PASSOU",atraso
+916,2026-04-03,chat,"ola, o pagamento ficou pendente?",pagamento
+917,2026-04-03,chat,"oi, o pagamento ficou pendente",pagamento
+918,2026-04-03,chat,o produto tem garantia. e urgente,outro
+919,2026-04-03,chat,era para chegar ontem!!,atraso
+920,2026-04-03,email,"boa noite, quero o reembolso da devolução. é urgente",troca
+921,2026-04-03,app,"boa tarde, o produto chegou quebrado e veio a cor errada. e urgente",troca
+922,2026-04-03,app,"boa noite, quando meu pedido vai chegar",atraso
+923,2026-04-03,app,a transportadora não atualiza o rastreio,atraso
+924,2026-04-03,chat,"BOA TARDE, O PRODUTO VEIO COM DEFEITO. PRECISO DE AJUDA",troca
+925,2026-04-03,email,o desconto do cupom não entrou,pagamento
+926,2026-04-03,email,"boa tarde, quero cancelar o recebimento de e-mails. pedido 66696",outro
+927,2026-04-03,email,"bom dia, a peça não serviu e como faço a troca. preciso de ajuda",troca
+928,2026-04-04,chat,"por favor, paguei e o pedido continua aguardando pagamento. pedido 48868",pagamento
+929,2026-04-04,chat,"boa tarde, era para chegar ontem e a entrega está atrasada. pedido 13388",atraso
+930,2026-04-04,app,cobraram duas vezes no cartão. pedido 70592,pagamento
+931,2026-04-04,email,quero trocar o tamanho!!,troca
+932,2026-04-04,chat,NAO CONSIGO PAGAR COM CARTAO E NAO CONSIGO PAGAR COM CARTAO!!,pagamento
+933,2026-04-04,app,o boleto venceu e o pagamento ficou pendente?,pagamento
+934,2026-04-05,app,"boa tarde, a entrega está atrasada e comprei faz 10 dias e nada?",atraso
+935,2026-04-05,chat,"oi, meu pedido ainda não chegou",atraso
+936,2026-04-05,app,"boa noite, quero a segunda via do boleto. aguardo retorno",pagamento
+937,2026-04-05,chat,"por favor, voces tem loja fisica e voces vendem para empresa. e urgente",outro
+938,2026-04-05,app,"POR FAVOR, NÃO QUERO TROCAR NADA, SÓ SABER QUANDO CHEGA. PEDIDO 28010",atraso
+939,2026-04-05,email,"boa tarde, como faço a troca e veio a cor errada!!",troca
+940,2026-04-05,chat,"por favor, a peca nao serviu. obrigado",troca
+941,2026-04-05,app,"boa tarde, o produto tem garantia. aguardo retorno",outro
+942,2026-04-05,chat,veio a cor errada e veio a cor errada. é urgente,troca
+943,2026-04-06,chat,o pedido nao saiu para entrega. preciso de ajuda,atraso
+944,2026-04-06,chat,"bom dia, quero cancelar o recebimento de e-mails. é urgente",outro
+945,2026-04-06,chat,"oi, como faco a troca e veio um item diferente do que eu pedi. obrigado",troca
+946,2026-04-06,app,"bom dia, a peca nao serviu e quero devolver o produto",troca
+947,2026-04-06,chat,"por favor, cobraram duas vezes no cartão. pedido 17478",pagamento
+948,2026-04-06,chat,quero trocar o tamanho,troca
+949,2026-04-06,app,"oi, quero trocar a forma de pagamento do boleto para pix",pagamento
+950,2026-04-06,chat,"oi, o pix não foi reconhecido e cobraram duas vezes no cartão!!",pagamento
+951,2026-04-06,email,era para chegar ontem. obrigado,atraso
+952,2026-04-06,email,"olá, quero elogiar o atendimento. obrigado",outro
+953,2026-04-07,email,"oi, quero devolver o produto!!",troca
+954,2026-04-07,email,"bom dia, a peça não serviu. preciso de ajuda",troca
+955,2026-04-07,chat,"oi, comprei faz 13 dias e nada e o prazo de entrega já passou. pedido 76818",atraso
+956,2026-04-07,app,"oi, meu pedido ainda não chegou. pedido 18995",atraso
+957,2026-04-07,app,"por favor, o pix não foi reconhecido e cobraram duas vezes no cartão. pedido 99949",pagamento
+958,2026-04-07,chat,"oi, o desconto do cupom não entrou",pagamento
+959,2026-04-07,app,"por favor, era para chegar ontem e o prazo de entrega já passou",atraso
+960,2026-04-08,chat,cobraram duas vezes no cartão e não consigo pagar com cartão,pagamento
+961,2026-04-08,app,veio a cor errada e o produto chegou quebrado. obrigado,troca
+962,2026-04-08,chat,"por favor, a peça não serviu e quero devolver o produto. preciso de ajuda",troca
+963,2026-04-08,chat,"chegou atrasado e ainda veio errado, quero trocar. e urgente",troca
+964,2026-04-08,email,paguei no pix faz 11 dias e o pedido não chegou?,atraso
+965,2026-04-08,app,tem esse produto em outra cor. e urgente,outro
+966,2026-04-08,email,"boa tarde, quero devolver o produto?",troca
+967,2026-04-08,app,COMPREI FAZ 12 DIAS E NADA,atraso
+968,2026-04-08,chat,a peça não serviu,troca
+969,2026-04-09,email,comprei faz 5 dias e nada?,atraso
+970,2026-04-09,email,"boa noite, veio a cor errada",troca
+971,2026-04-09,email,"boa tarde, o pedido chegou mas cobraram duas vezes. aguardo retorno",pagamento
+972,2026-04-09,chat,"olá, a entrega está atrasada",atraso
+973,2026-04-09,chat,"bom dia, quero o reembolso da devolução. pedido 27637",troca
+974,2026-04-09,app,"BOM DIA, NAO QUERO TROCAR NADA, SO SABER QUANDO CHEGA",atraso
+975,2026-04-09,chat,"olá, quero o reembolso da devolução. preciso de ajuda",troca
+976,2026-04-09,email,"oi, o prazo de entrega já passou. preciso de ajuda",atraso
+977,2026-04-09,email,"olá, quero mudar meu endereço de cadastro",outro
+978,2026-04-09,chat,"boa noite, quando meu pedido vai chegar",atraso
+979,2026-04-09,app,"bom dia, o rastreio esta parado faz 3 dias. aguardo retorno",atraso
+980,2026-04-09,chat,"OI, O PRODUTO VEIO COM DEFEITO E O PRODUTO CHEGOU QUEBRADO",troca
+981,2026-04-09,email,quero elogiar o atendimento. obrigado,outro
+982,2026-04-10,email,quando meu pedido vai chegar e a transportadora nao atualiza o rastreio. pedido 84353,atraso
+983,2026-04-10,app,O DESCONTO DO CUPOM NAO ENTROU. OBRIGADO,pagamento
+984,2026-04-10,app,"ola, quero trocar o tamanho!!",troca
+985,2026-04-10,chat,"por favor, o pix nao foi reconhecido e cobraram duas vezes no cartao. preciso de ajuda",pagamento
+986,2026-04-10,chat,"oi, o pagamento ficou pendente",pagamento
+987,2026-04-10,email,"boa noite, como faço a troca?",troca
+988,2026-04-10,chat,"boa noite, cade meu pedido e cade meu pedido. obrigado",atraso
+989,2026-04-10,chat,"boa tarde, o pagamento ficou pendente!!",pagamento
+990,2026-04-11,email,"por favor, a transportadora não atualiza o rastreio",atraso
+991,2026-04-11,email,"por favor, não quero trocar nada, só saber quando chega. preciso de ajuda",atraso
+992,2026-04-11,app,"boa noite, o pedido não saiu para entrega e quando meu pedido vai chegar",atraso
+993,2026-04-11,app,"boa noite, paguei e o pedido continua aguardando pagamento e a compra foi recusada no cartao. obrigado",pagamento
+994,2026-04-11,email,a transportadora não atualiza o rastreio,atraso
+995,2026-04-11,app,"BOA TARDE, QUERO TROCAR A FORMA DE PAGAMENTO DO BOLETO PARA PIX. É URGENTE",pagamento
+996,2026-04-11,app,"boa noite, voces entregam no sabado. pedido 31171",outro
+997,2026-04-11,chat,"por favor, meu pedido ainda não chegou!!",atraso
+998,2026-04-11,chat,"OLÁ, PAGUEI E O PEDIDO CONTINUA AGUARDANDO PAGAMENTO?",pagamento
+999,2026-04-11,chat,o desconto do cupom não entrou,pagamento
+1000,2026-04-11,chat,"boa noite, o boleto venceu. é urgente",pagamento
+1001,2026-04-11,app,"BOM DIA, VEIO UM ITEM DIFERENTE DO QUE EU PEDI E O PRODUTO CHEGOU QUEBRADO?",troca
+1002,2026-04-12,chat,"por favor, não é sobre entrega nem pagamento, vocês têm vaga de emprego",outro
+1003,2026-04-12,chat,"por favor, a transportadora não atualiza o rastreio",atraso
+1004,2026-04-12,email,"boa noite, veio um item diferente do que eu pedi",troca
+1005,2026-04-12,app,"BOM DIA, PAGUEI NO PIX FAZ 10 DIAS E O PEDIDO NÃO CHEGOU. PEDIDO 72725",atraso
+1006,2026-04-12,email,"olá, veio a cor errada. preciso de ajuda",troca
+1007,2026-04-12,app,"por favor, a caixa chegou amassada e o produto riscado",troca
+1008,2026-04-12,email,"ola, a transportadora nao atualiza o rastreio?",atraso
+1009,2026-04-12,email,o pix nao foi reconhecido,pagamento
+1010,2026-04-13,chat,"boa noite, o produto veio com defeito. obrigado",troca
+1011,2026-04-13,email,paguei e o pedido continua aguardando pagamento,pagamento
+1012,2026-04-13,app,"boa noite, quando meu pedido vai chegar. e urgente",atraso
+1013,2026-04-13,chat,"oi, quero mudar meu endereço de cadastro. aguardo retorno",outro
+1014,2026-04-13,chat,"boa noite, cade meu pedido. e urgente",atraso
+1015,2026-04-13,chat,"por favor, o pagamento ficou pendente. é urgente",pagamento
+1016,2026-04-13,email,"olá, o produto chegou quebrado. obrigado",troca
+1017,2026-04-13,chat,"por favor, o prazo de entrega já passou. pedido 98206",atraso
+1018,2026-04-13,chat,paguei no pix faz 10 dias e o pedido não chegou?,atraso
+1019,2026-04-13,chat,a caixa chegou amassada e o produto riscado!!,troca
+1020,2026-04-14,chat,o produto tem garantia. pedido 16464,outro
+1021,2026-04-14,app,"por favor, quero elogiar o atendimento e como uso o cupom de aniversário",outro
+1022,2026-04-14,app,"boa tarde, quero devolver o produto. aguardo retorno",troca
+1023,2026-04-14,app,"bom dia, comprei faz 7 dias e nada e comprei faz 7 dias e nada. preciso de ajuda",atraso
+1024,2026-04-14,chat,nao consigo pagar com cartao,pagamento
+1025,2026-04-14,app,"boa tarde, quero mudar meu endereço de cadastro e como uso o cupom de aniversário",outro
+1026,2026-04-14,email,"boa noite, voces tem loja fisica!!",outro
+1027,2026-04-14,chat,"BOM DIA, O DESCONTO DO CUPOM NAO ENTROU!!",pagamento
+1028,2026-04-15,app,veio um item diferente do que eu pedi. pedido 25504,troca
+1029,2026-04-15,chat,"ola, quero trocar a forma de pagamento do boleto para pix!!",pagamento
+1030,2026-04-15,chat,QUERO ELOGIAR O ATENDIMENTO?,outro
+1031,2026-04-15,chat,"olá, comprei faz 10 dias e nada. preciso de ajuda",atraso
+1032,2026-04-15,chat,"olá, o prazo de entrega já passou. aguardo retorno",atraso
+1033,2026-04-15,chat,"olá, vocês entregam no sábado. aguardo retorno",outro
+1034,2026-04-15,email,"BOM DIA, O ESTORNO AINDA NÃO APARECEU NA FATURA!!",pagamento
+1035,2026-04-15,chat,"OLÁ, COMO FAÇO A TROCA E QUERO DEVOLVER O PRODUTO",troca
+1036,2026-04-15,email,quero a segunda via do boleto,pagamento
+1037,2026-04-15,app,"boa tarde, o pedido chegou mas cobraram duas vezes. é urgente",pagamento
+1038,2026-04-15,email,"OLÁ, A TRANSPORTADORA NÃO ATUALIZA O RASTREIO",atraso
+1039,2026-04-15,app,comprei faz 13 dias e nada. e urgente,atraso
+1040,2026-04-15,email,"boa noite, cadê meu pedido",atraso
+1041,2026-04-16,chat,"oi, quero o reembolso da devolução. é urgente",troca
+1042,2026-04-16,chat,"boa noite, o rastreio está parado faz 15 dias e o pedido não saiu para entrega. pedido 99125",atraso
+1043,2026-04-16,app,"BOA NOITE, NAO CONSIGO PAGAR COM CARTAO!!",pagamento
+1044,2026-04-16,chat,"boa noite, cadê meu pedido. obrigado",atraso
+1045,2026-04-16,chat,"olá, o produto tem garantia e vocês entregam no sábado?",outro
+1046,2026-04-16,chat,"oi, veio a cor errada",troca
+1047,2026-04-16,chat,"bom dia, meu pedido ainda não chegou",atraso
+1048,2026-04-16,email,era para chegar ontem,atraso
+1049,2026-04-16,email,"bom dia, era para chegar ontem. aguardo retorno",atraso
+1050,2026-04-16,chat,"oi, a caixa chegou amassada e o produto riscado",troca
+1051,2026-04-17,email,"bom dia, nao consigo pagar com cartao",pagamento
+1052,2026-04-17,app,era para chegar ontem. é urgente,atraso
+1053,2026-04-17,app,"boa tarde, quero elogiar o atendimento",outro
+1054,2026-04-17,chat,"oi, o boleto venceu!!",pagamento
+1055,2026-04-17,app,"OI, O PRODUTO VEIO COM DEFEITO. É URGENTE",troca
+1056,2026-04-18,app,"boa tarde, comprei faz 11 dias e nada?",atraso
+1057,2026-04-18,chat,"boa noite, meu pedido ainda não chegou e era para chegar ontem?",atraso
+1058,2026-04-18,chat,a caixa chegou amassada e o produto riscado?,troca
+1059,2026-04-18,app,"bom dia, o produto chegou quebrado",troca
+1060,2026-04-18,chat,"boa tarde, a caixa chegou amassada e o produto riscado e quero o reembolso da devolucao. e urgente",troca
+1061,2026-04-18,email,comprei faz 7 dias e nada!!,atraso
+1062,2026-04-18,chat,"oi, o produto chegou quebrado. obrigado",troca
+1063,2026-04-18,email,"por favor, quero trocar a forma de pagamento do boleto para pix. obrigado",pagamento
+1064,2026-04-18,app,"boa noite, a transportadora não atualiza o rastreio!!",atraso
+1065,2026-04-18,chat,"por favor, veio um item diferente do que eu pedi e quero o reembolso da devolucao. preciso de ajuda",troca
+1066,2026-04-19,chat,"oi, comprei faz 14 dias e nada",atraso
+1067,2026-04-19,email,veio um item diferente do que eu pedi e veio a cor errada. aguardo retorno,troca
+1068,2026-04-19,app,o produto chegou quebrado. pedido 41984,troca
+1069,2026-04-19,chat,"por favor, veio um item diferente do que eu pedi e a caixa chegou amassada e o produto riscado. obrigado",troca
+1070,2026-04-19,email,"oi, o rastreio esta parado faz 3 dias!!",atraso
+1071,2026-04-19,chat,COMO USO O CUPOM DE ANIVERSARIO. PEDIDO 42609,outro
+1072,2026-04-19,app,"boa noite, cobraram duas vezes no cartão e a compra foi recusada no cartão. preciso de ajuda",pagamento
+1073,2026-04-20,chat,"por favor, o rastreio está parado faz 11 dias e quando meu pedido vai chegar!!",atraso
+1074,2026-04-20,chat,"oi, era para chegar ontem. pedido 98002",atraso
+1075,2026-04-20,chat,"boa noite, a transportadora nao atualiza o rastreio. e urgente",atraso
+1076,2026-04-20,chat,"por favor, quero o reembolso da devolução!!",troca
+1077,2026-04-20,app,"oi, o rastreio está parado faz 6 dias e a entrega está atrasada. preciso de ajuda",atraso
+1078,2026-04-20,email,"OI, QUERO CANCELAR O RECEBIMENTO DE E-MAILS E VOCÊS ENTREGAM NO SÁBADO",outro
+1079,2026-04-20,app,cade meu pedido!!,atraso
+1080,2026-04-20,chat,"ola, voces entregam no sabado",outro
+1081,2026-04-21,chat,"oi, quando meu pedido vai chegar",atraso
+1082,2026-04-21,app,"olá, quero trocar o tamanho. é urgente",troca
+1083,2026-04-21,app,"boa tarde, quero o reembolso da devolução e o produto chegou quebrado!!",troca
+1084,2026-04-21,app,o pedido nao saiu para entrega?,atraso
+1085,2026-04-21,chat,"oi, a transportadora não atualiza o rastreio",atraso
+1086,2026-04-21,email,"boa noite, cadê meu pedido e o pedido não saiu para entrega. obrigado",atraso
+1087,2026-04-21,chat,"bom dia, a compra foi recusada no cartão",pagamento
+1088,2026-04-21,chat,paguei no pix faz 8 dias e o pedido não chegou. obrigado,atraso
+1089,2026-04-21,app,era para chegar ontem e a transportadora não atualiza o rastreio!!,atraso
+1090,2026-04-21,chat,o prazo de entrega ja passou. obrigado,atraso
+1091,2026-04-21,chat,o rastreio está parado faz 13 dias,atraso
+1092,2026-04-22,app,"OLÁ, COMO FAÇO A TROCA",troca
+1093,2026-04-22,chat,o estorno ainda não apareceu na fatura e o boleto venceu. preciso de ajuda,pagamento
+1094,2026-04-22,chat,cadê meu pedido e comprei faz 5 dias e nada. é urgente,atraso
+1095,2026-04-22,chat,o pedido nao saiu para entrega. aguardo retorno,atraso
+1096,2026-04-22,chat,quero mudar meu endereço de cadastro,outro
+1097,2026-04-22,chat,"oi, o produto tem garantia",outro
+1098,2026-04-23,chat,"oi, o estorno ainda não apareceu na fatura",pagamento
+1099,2026-04-23,app,"boa tarde, a entrega esta atrasada. e urgente",atraso
+1100,2026-04-23,email,a transportadora não atualiza o rastreio!!,atraso
+1101,2026-04-23,email,o produto chegou quebrado. é urgente,troca
+1102,2026-04-23,chat,"boa noite, paguei no pix faz 14 dias e o pedido não chegou. obrigado",atraso
+1103,2026-04-23,chat,"boa tarde, a caixa chegou amassada e o produto riscado",troca
+1104,2026-04-23,app,"oi, como faco a troca e quero o reembolso da devolucao!!",troca
+1105,2026-04-23,app,o rastreio está parado faz 8 dias,atraso
+1106,2026-04-23,email,"boa tarde, quero mudar meu endereço de cadastro",outro
+1107,2026-04-23,chat,"boa noite, o pagamento ficou pendente e o boleto venceu",pagamento
+1108,2026-04-23,chat,paguei e o pedido continua aguardando pagamento,pagamento
+1109,2026-04-23,chat,"por favor, como uso o cupom de aniversário?",outro
+1110,2026-04-24,app,"boa noite, o pagamento ficou pendente. obrigado",pagamento
+1111,2026-04-24,app,"oi, cadê meu pedido. pedido 32728",atraso
+1112,2026-04-24,email,"boa tarde, quero trocar o tamanho e o produto veio com defeito?",troca
+1113,2026-04-24,chat,"OLÁ, QUERO CANCELAR O RECEBIMENTO DE E-MAILS",outro
+1114,2026-04-24,chat,a caixa chegou amassada e o produto riscado. obrigado,troca
+1115,2026-04-24,email,"por favor, o pagamento ficou pendente e o pix não foi reconhecido",pagamento
+1116,2026-04-24,chat,"boa tarde, o pedido não saiu para entrega?",atraso
+1117,2026-04-24,chat,veio um item diferente do que eu pedi. obrigado,troca
+1118,2026-04-25,chat,como faco a troca,troca
+1119,2026-04-25,email,"BOM DIA, QUERO O REEMBOLSO DA DEVOLUCAO!!",troca
+1120,2026-04-25,app,"oi, veio a cor errada!!",troca
+1121,2026-04-25,chat,"bom dia, quero devolver o produto",troca
+1122,2026-04-25,chat,"boa tarde, não é sobre entrega nem pagamento, vocês têm vaga de emprego",outro
+1123,2026-04-25,app,"boa noite, comprei faz 3 dias e nada",atraso
+1124,2026-04-25,chat,"bom dia, voces vendem para empresa. aguardo retorno",outro
+1125,2026-04-25,app,"boa noite, quando meu pedido vai chegar. preciso de ajuda",atraso
+1126,2026-04-25,chat,"por favor, o pagamento ficou pendente?",pagamento
+1127,2026-04-25,chat,o prazo de entrega ja passou,atraso
+1128,2026-04-25,app,"por favor, o pagamento foi aprovado mas o produto veio com defeito",troca
+1129,2026-04-26,chat,"olá, quero elogiar o atendimento",outro
+1130,2026-04-26,app,"bom dia, o pedido nao saiu para entrega",atraso
+1131,2026-04-26,email,o pix não foi reconhecido!!,pagamento
+1132,2026-04-26,app,"bom dia, o pedido nao saiu para entrega!!",atraso
+1133,2026-04-26,chat,"bom dia, paguei e o pedido continua aguardando pagamento. é urgente",pagamento
+1134,2026-04-26,app,meu pedido ainda não chegou. preciso de ajuda,atraso
+1135,2026-04-26,email,paguei e o pedido continua aguardando pagamento e o pagamento ficou pendente. é urgente,pagamento
+1136,2026-04-26,chat,veio um item diferente do que eu pedi e quero trocar o tamanho,troca
+1137,2026-04-26,chat,"nao quero trocar nada, so saber quando chega. pedido 70070",atraso
+1138,2026-04-26,chat,"boa tarde, a peça não serviu",troca
+1139,2026-04-26,chat,"olá, quando meu pedido vai chegar e comprei faz 3 dias e nada",atraso
+1140,2026-04-26,app,meu pedido ainda não chegou. preciso de ajuda,atraso
+1141,2026-04-27,app,"oi, o prazo de entrega já passou e cadê meu pedido",atraso
+1142,2026-04-27,email,paguei e o pedido continua aguardando pagamento e o estorno ainda não apareceu na fatura,pagamento
+1143,2026-04-27,chat,"ola, comprei faz 14 dias e nada",atraso
+1144,2026-04-27,email,"por favor, o produto chegou quebrado",troca
+1145,2026-04-27,email,veio um item diferente do que eu pedi e como faço a troca. é urgente,troca
+1146,2026-04-27,chat,"por favor, era para chegar ontem e o pedido não saiu para entrega",atraso
+1147,2026-04-27,app,"boa tarde, a peça não serviu",troca
+1148,2026-04-27,email,"OLÁ, ERA PARA CHEGAR ONTEM E COMPREI FAZ 9 DIAS E NADA. OBRIGADO",atraso
+1149,2026-04-28,chat,"olá, veio a cor errada?",troca
+1150,2026-04-28,email,"olá, quero cancelar o recebimento de e-mails. preciso de ajuda",outro
+1151,2026-04-28,email,"boa noite, nao consigo pagar com cartao. aguardo retorno",pagamento
+1152,2026-04-28,email,"boa tarde, a caixa chegou amassada e o produto riscado",troca
+1153,2026-04-28,email,voces vendem para empresa. e urgente,outro
+1154,2026-04-29,email,"BOA NOITE, QUERO CANCELAR O RECEBIMENTO DE E-MAILS",outro
+1155,2026-04-29,app,"boa tarde, como faco a troca. pedido 49698",troca
+1156,2026-04-29,email,"oi, quero trocar o tamanho",troca
+1157,2026-04-29,chat,a transportadora nao atualiza o rastreio. pedido 65457,atraso
+1158,2026-04-29,email,"por favor, a transportadora não atualiza o rastreio. aguardo retorno",atraso
+1159,2026-04-30,app,"bom dia, a peça não serviu!!",troca
+1160,2026-04-30,app,"boa noite, paguei no pix faz 6 dias e o pedido nao chegou!!",atraso
+1161,2026-04-30,email,"por favor, quero a segunda via do boleto. e urgente",pagamento
+1162,2026-04-30,app,"boa noite, veio a cor errada e como faço a troca. preciso de ajuda",troca
+1163,2026-04-30,app,voces vendem para empresa?,outro
+1164,2026-04-30,app,"ola, comprei faz 4 dias e nada e o rastreio esta parado faz 4 dias",atraso
+1165,2026-04-30,email,"boa tarde, o pedido nao saiu para entrega",atraso
+1166,2026-04-30,chat,"oi, quando meu pedido vai chegar",atraso
+1167,2026-04-30,chat,"boa noite, veio um item diferente do que eu pedi e o produto chegou quebrado",troca
+1168,2026-05-01,app,"olá, quero cancelar o recebimento de e-mails e vocês entregam no sábado",outro
+1169,2026-05-01,chat,meu pedido ainda nao chegou. pedido 90269,atraso
+1170,2026-05-01,chat,quando meu pedido vai chegar e a entrega está atrasada,atraso
+1171,2026-05-01,chat,"boa noite, o rastreio está parado faz 2 dias e meu pedido ainda não chegou. é urgente",atraso
+1172,2026-05-01,chat,"OI, O DESCONTO DO CUPOM NÃO ENTROU E O BOLETO VENCEU",pagamento
+1173,2026-05-01,email,"bom dia, o pagamento ficou pendente. preciso de ajuda",pagamento
+1174,2026-05-01,chat,"por favor, cobraram duas vezes no cartão. obrigado",pagamento
+1175,2026-05-01,app,"bom dia, o produto tem garantia e voces tem loja fisica",outro
+1176,2026-05-01,chat,"oi, quero trocar a forma de pagamento do boleto para pix",pagamento
+1177,2026-05-01,app,"bom dia, quero cancelar o recebimento de e-mails!!",outro
+1178,2026-05-01,chat,"por favor, paguei no pix faz 7 dias e o pedido não chegou. preciso de ajuda",atraso
+1179,2026-05-01,email,"por favor, paguei e o pedido continua aguardando pagamento?",pagamento
+1180,2026-05-01,app,"BOA TARDE, A COMPRA FOI RECUSADA NO CARTÃO",pagamento
+1181,2026-05-02,chat,o prazo de entrega já passou?,atraso
+1182,2026-05-02,email,"boa noite, quero a segunda via do boleto!!",pagamento
+1183,2026-05-02,chat,vocês entregam no sábado. obrigado,outro
+1184,2026-05-02,chat,quero devolver o produto. obrigado,troca
+1185,2026-05-02,app,"boa tarde, o prazo de entrega já passou?",atraso
+1186,2026-05-02,app,"boa tarde, paguei no pix faz 8 dias e o pedido não chegou. obrigado",atraso
+1187,2026-05-03,chat,"bom dia, como uso o cupom de aniversário. preciso de ajuda",outro
+1188,2026-05-03,app,"por favor, como faço a troca e quero devolver o produto. é urgente",troca
+1189,2026-05-03,chat,"BOA NOITE, QUERO O REEMBOLSO DA DEVOLUCAO. PRECISO DE AJUDA",troca
+1190,2026-05-03,app,"oi, a entrega está atrasada e a transportadora não atualiza o rastreio. pedido 65318",atraso
+1191,2026-05-03,email,cade meu pedido,atraso
+1192,2026-05-03,chat,"olá, a entrega está atrasada. obrigado",atraso
+1193,2026-05-03,app,"olá, paguei e o pedido continua aguardando pagamento. pedido 34349",pagamento
+1194,2026-05-03,chat,"boa tarde, a peça não serviu e veio a cor errada?",troca
+1195,2026-05-03,chat,quero a segunda via do boleto,pagamento
+1196,2026-05-03,app,"bom dia, o pedido não saiu para entrega!!",atraso
+1197,2026-05-03,email,"por favor, quando meu pedido vai chegar",atraso
+1198,2026-05-03,email,"boa noite, a peca nao serviu. e urgente",troca
+1199,2026-05-04,chat,"oi, quero a segunda via do boleto e paguei e o pedido continua aguardando pagamento",pagamento
+1200,2026-05-04,email,"BOA NOITE, COMPREI FAZ 11 DIAS E NADA E COMPREI FAZ 11 DIAS E NADA?",atraso
+1201,2026-05-04,email,paguei e o pedido continua aguardando pagamento e paguei e o pedido continua aguardando pagamento,pagamento
+1202,2026-05-04,chat,quero trocar a forma de pagamento do boleto para pix. e urgente,pagamento
+1203,2026-05-04,chat,QUERO ELOGIAR O ATENDIMENTO. AGUARDO RETORNO,outro
+1204,2026-05-04,app,"bom dia, a entrega está atrasada. é urgente",atraso
+1205,2026-05-05,app,"boa noite, cadê meu pedido?",atraso
+1206,2026-05-05,email,QUERO ELOGIAR O ATENDIMENTO?,outro
+1207,2026-05-05,app,"boa tarde, veio a cor errada. aguardo retorno",troca
+1208,2026-05-05,app,"por favor, como uso o cupom de aniversário. é urgente",outro
+1209,2026-05-06,app,"por favor, quero trocar o tamanho e a caixa chegou amassada e o produto riscado. obrigado",troca
+1210,2026-05-06,email,"olá, o pagamento ficou pendente e o pix não foi reconhecido. preciso de ajuda",pagamento
+1211,2026-05-06,chat,O DESCONTO DO CUPOM NÃO ENTROU. AGUARDO RETORNO,pagamento
+1212,2026-05-06,app,"por favor, meu pedido ainda nao chegou. obrigado",atraso
+1213,2026-05-06,chat,"BOM DIA, VEIO A COR ERRADA. OBRIGADO",troca
+1214,2026-05-06,chat,"oi, o produto tem garantia",outro
+1215,2026-05-06,email,"por favor, a entrega esta atrasada!!",atraso
+1216,2026-05-07,chat,"oi, o pagamento ficou pendente. aguardo retorno",pagamento
+1217,2026-05-07,email,vocês vendem para empresa. obrigado,outro
+1218,2026-05-07,app,O PEDIDO NÃO SAIU PARA ENTREGA,atraso
+1219,2026-05-07,chat,"olá, o produto veio com defeito. aguardo retorno",troca
+1220,2026-05-07,app,veio a cor errada?,troca
+1221,2026-05-07,chat,"boa noite, nao consigo pagar com cartao",pagamento
+1222,2026-05-07,app,"boa noite, o prazo de entrega já passou e o rastreio está parado faz 4 dias",atraso
+1223,2026-05-07,chat,o produto tem garantia. aguardo retorno,outro
+1224,2026-05-07,chat,"boa noite, o pagamento foi aprovado mas o produto veio com defeito. aguardo retorno",troca
+1225,2026-05-07,email,"boa tarde, vocês vendem para empresa e quero elogiar o atendimento. obrigado",outro
+1226,2026-05-08,app,"por favor, quero trocar o tamanho. é urgente",troca
+1227,2026-05-08,app,a compra foi recusada no cartao. pedido 48974,pagamento
+1228,2026-05-08,chat,O ESTORNO AINDA NAO APARECEU NA FATURA!!,pagamento
+1229,2026-05-08,chat,cadê meu pedido,atraso
+1230,2026-05-08,app,o pagamento foi aprovado mas o produto veio com defeito,troca
+1231,2026-05-08,app,"por favor, quando meu pedido vai chegar!!",atraso
+1232,2026-05-08,app,O PAGAMENTO FOI APROVADO MAS O PRODUTO VEIO COM DEFEITO,troca
+1233,2026-05-08,app,veio um item diferente do que eu pedi. obrigado,troca
+1234,2026-05-09,app,"ola, o produto chegou quebrado!!",troca
+1235,2026-05-09,email,"boa noite, o pix não foi reconhecido",pagamento
+1236,2026-05-09,chat,"ola, quero trocar o tamanho. e urgente",troca
+1237,2026-05-09,chat,"boa tarde, paguei no pix faz 14 dias e o pedido não chegou",atraso
+1238,2026-05-09,chat,"boa noite, cobraram duas vezes no cartão. preciso de ajuda",pagamento
+1239,2026-05-09,chat,o prazo de entrega já passou. pedido 62929,atraso
+1240,2026-05-09,chat,"boa tarde, veio um item diferente do que eu pedi",troca
+1241,2026-05-09,email,paguei no pix faz 9 dias e o pedido não chegou. obrigado,atraso
+1242,2026-05-09,chat,"olá, quando meu pedido vai chegar e quando meu pedido vai chegar!!",atraso
+1243,2026-05-09,chat,"oi, cade meu pedido. preciso de ajuda",atraso
+1244,2026-05-09,chat,"bom dia, o pix não foi reconhecido. pedido 18098",pagamento
+1245,2026-05-10,app,"boa tarde, chegou atrasado e ainda veio errado, quero trocar. obrigado",troca
+1246,2026-05-10,app,"bom dia, nao consigo pagar com cartao!!",pagamento
+1247,2026-05-10,email,"oi, a compra foi recusada no cartão. preciso de ajuda",pagamento
+1248,2026-05-10,email,quero a segunda via do boleto. pedido 51900,pagamento
+1249,2026-05-10,chat,"olá, vocês entregam no sábado e o produto tem garantia",outro
+1250,2026-05-10,email,"BOM DIA, O PRODUTO CHEGOU QUEBRADO. É URGENTE",troca
+1251,2026-05-10,chat,quero trocar o tamanho. aguardo retorno,troca
+1252,2026-05-10,email,"bom dia, quero trocar o tamanho e veio a cor errada!!",troca
+1253,2026-05-10,email,"oi, quero mudar meu endereco de cadastro e voces vendem para empresa. pedido 52373",outro
+1254,2026-05-10,app,"por favor, o estorno ainda não apareceu na fatura. preciso de ajuda",pagamento
+1255,2026-05-10,chat,a entrega esta atrasada. pedido 50158,atraso
+1256,2026-05-10,app,comprei faz 4 dias e nada. é urgente,atraso
+1257,2026-05-10,chat,paguei e o pedido continua aguardando pagamento. é urgente,pagamento
+1258,2026-05-10,chat,"bom dia, a transportadora não atualiza o rastreio e a transportadora não atualiza o rastreio. é urgente",atraso
+1259,2026-05-10,chat,"oi, veio um item diferente do que eu pedi. é urgente",troca
+1260,2026-05-11,chat,"boa noite, a transportadora não atualiza o rastreio!!",atraso
+1261,2026-05-11,chat,paguei no pix faz 4 dias e o pedido nao chegou. obrigado,atraso
+1262,2026-05-11,app,"bom dia, o produto veio com defeito. pedido 73480",troca
+1263,2026-05-11,email,"OLA, COMO FACO A TROCA E COMO FACO A TROCA",troca
+1264,2026-05-11,chat,"oi, quero o reembolso da devolução. é urgente",troca
+1265,2026-05-11,chat,"olá, vocês vendem para empresa",outro
+1266,2026-05-11,chat,"CHEGOU ATRASADO E AINDA VEIO ERRADO, QUERO TROCAR",troca
+1267,2026-05-11,chat,"BOA NOITE, O PRAZO DE ENTREGA JÁ PASSOU E CADÊ MEU PEDIDO. AGUARDO RETORNO",atraso
+1268,2026-05-11,chat,"boa tarde, quero mudar meu endereço de cadastro",outro
+1269,2026-05-11,chat,"ola, o prazo de entrega ja passou. obrigado",atraso
+1270,2026-05-11,app,tem esse produto em outra cor. preciso de ajuda,outro
+1271,2026-05-12,chat,"por favor, quero a segunda via do boleto. é urgente",pagamento
+1272,2026-05-12,app,"BOM DIA, A PECA NAO SERVIU. PEDIDO 42058",troca
+1273,2026-05-12,app,"por favor, qual o horario do atendimento e qual o horario do atendimento. e urgente",outro
+1274,2026-05-12,chat,"boa tarde, chegou atrasado e ainda veio errado, quero trocar. aguardo retorno",troca
+1275,2026-05-12,app,vocês têm loja física. é urgente,outro
+1276,2026-05-12,chat,"oi, não consigo pagar com cartão",pagamento
+1277,2026-05-12,chat,"oi, o produto tem garantia. preciso de ajuda",outro
+1278,2026-05-12,email,comprei faz 3 dias e nada e cadê meu pedido!!,atraso
+1279,2026-05-12,chat,comprei faz 2 dias e nada. pedido 51571,atraso
+1280,2026-05-12,chat,"boa noite, quero o reembolso da devolução",troca
+1281,2026-05-12,chat,qual o horário do atendimento,outro
+1282,2026-05-12,chat,"bom dia, o produto veio com defeito e o produto chegou quebrado. é urgente",troca
+1283,2026-05-12,email,"boa tarde, o produto veio com defeito",troca
+1284,2026-05-12,email,"boa tarde, quando meu pedido vai chegar e meu pedido ainda não chegou?",atraso
+1285,2026-05-12,app,comprei faz 2 dias e nada e comprei faz 2 dias e nada. obrigado,atraso
+1286,2026-05-12,app,"BOA TARDE, PAGUEI E O PEDIDO CONTINUA AGUARDANDO PAGAMENTO E O DESCONTO DO CUPOM NAO ENTROU. PRECISO DE AJUDA",pagamento
+1287,2026-05-12,chat,"por favor, a entrega esta atrasada. aguardo retorno",atraso
+1288,2026-05-12,app,"ola, paguei e o pedido continua aguardando pagamento?",pagamento
+1289,2026-05-13,email,"BOM DIA, COBRARAM DUAS VEZES NO CARTAO. E URGENTE",pagamento
+1290,2026-05-13,chat,"olá, paguei e o pedido continua aguardando pagamento. aguardo retorno",pagamento
+1291,2026-05-13,email,o rastreio está parado faz 9 dias. pedido 75046,atraso
+1292,2026-05-13,email,"não é sobre entrega nem pagamento, vocês têm vaga de emprego. pedido 21141",outro
+1293,2026-05-13,chat,"boa tarde, quero devolver o produto e a peça não serviu. é urgente",troca
+1294,2026-05-13,app,"oi, a peça não serviu. é urgente",troca
+1295,2026-05-13,app,"oi, o pedido chegou mas cobraram duas vezes",pagamento
+1296,2026-05-13,chat,quero devolver o produto e o produto veio com defeito. preciso de ajuda,troca
+1297,2026-05-14,app,vocês entregam no sábado e vocês entregam no sábado,outro
+1298,2026-05-14,chat,"boa noite, a caixa chegou amassada e o produto riscado. pedido 70129",troca
+1299,2026-05-14,app,não consigo pagar com cartão?,pagamento
+1300,2026-05-14,email,"bom dia, o pedido não saiu para entrega e era para chegar ontem",atraso
+1301,2026-05-14,app,"bom dia, a transportadora não atualiza o rastreio e a transportadora não atualiza o rastreio",atraso
+1302,2026-05-14,email,"POR FAVOR, QUERO DEVOLVER O PRODUTO E QUERO O REEMBOLSO DA DEVOLUÇÃO",troca
+1303,2026-05-14,app,quero a segunda via do boleto e a compra foi recusada no cartão?,pagamento
+1304,2026-05-14,email,"bom dia, quero devolver o produto. aguardo retorno",troca
+1305,2026-05-14,email,"por favor, cadê meu pedido. é urgente",atraso
+1306,2026-05-14,app,"por favor, o pedido chegou mas cobraram duas vezes. aguardo retorno",pagamento
+1307,2026-05-14,app,"OI, VEIO A COR ERRADA. PEDIDO 46680",troca
+1308,2026-05-14,chat,"por favor, veio um item diferente do que eu pedi e a peça não serviu. pedido 49571",troca
+1309,2026-05-15,app,"oi, o pedido não saiu para entrega e comprei faz 3 dias e nada. é urgente",atraso
+1310,2026-05-15,chat,"bom dia, não consigo pagar com cartão",pagamento
+1311,2026-05-15,chat,quando meu pedido vai chegar. aguardo retorno,atraso
+1312,2026-05-15,chat,"bom dia, quero trocar o tamanho e a caixa chegou amassada e o produto riscado. obrigado",troca
+1313,2026-05-15,app,"por favor, veio um item diferente do que eu pedi",troca
+1314,2026-05-15,chat,"boa noite, o desconto do cupom não entrou e quero a segunda via do boleto!!",pagamento
+1315,2026-05-15,chat,"por favor, quero elogiar o atendimento e o produto tem garantia. obrigado",outro
+1316,2026-05-15,chat,"POR FAVOR, O PRODUTO VEIO COM DEFEITO E A CAIXA CHEGOU AMASSADA E O PRODUTO RISCADO",troca
+1317,2026-05-15,chat,meu pedido ainda não chegou e o prazo de entrega já passou!!,atraso
+1318,2026-05-15,chat,"oi, como uso o cupom de aniversario. obrigado",outro
+1319,2026-05-15,chat,"boa noite, o pix não foi reconhecido",pagamento
+1320,2026-05-16,chat,"boa noite, vocês entregam no sábado. aguardo retorno",outro
+1321,2026-05-16,app,"por favor, quero a segunda via do boleto e o desconto do cupom não entrou. obrigado",pagamento
+1322,2026-05-16,app,"olá, quero devolver o produto e como faço a troca. aguardo retorno",troca
+1323,2026-05-16,chat,"bom dia, o pedido chegou mas cobraram duas vezes. é urgente",pagamento
+1324,2026-05-16,email,"boa noite, o pagamento foi aprovado mas o produto veio com defeito",troca
+1325,2026-05-16,chat,"oi, a compra foi recusada no cartão!!",pagamento
+1326,2026-05-16,chat,"bom dia, o pedido não saiu para entrega",atraso
+1327,2026-05-16,chat,"olá, vocês entregam no sábado",outro
+1328,2026-05-16,chat,"bom dia, meu pedido ainda não chegou. pedido 23816",atraso
+1329,2026-05-16,email,"boa noite, não é sobre entrega nem pagamento, vocês têm vaga de emprego. obrigado",outro
+1330,2026-05-16,chat,VEIO A COR ERRADA. AGUARDO RETORNO,troca
+1331,2026-05-16,chat,"olá, era para chegar ontem?",atraso
+1332,2026-05-16,email,"BOM DIA, CADÊ MEU PEDIDO",atraso
+1333,2026-05-16,chat,"oi, o produto chegou quebrado",troca
+1334,2026-05-17,chat,paguei e o pedido continua aguardando pagamento!!,pagamento
+1335,2026-05-17,app,"boa noite, a caixa chegou amassada e o produto riscado e veio a cor errada!!",troca
+1336,2026-05-17,chat,"boa tarde, paguei no pix faz 6 dias e o pedido não chegou. pedido 72779",atraso
+1337,2026-05-17,chat,"BOA NOITE, ERA PARA CHEGAR ONTEM",atraso
+1338,2026-05-17,chat,"bom dia, o produto veio com defeito. pedido 96200",troca
+1339,2026-05-17,chat,"bom dia, o pagamento ficou pendente e paguei e o pedido continua aguardando pagamento!!",pagamento
+1340,2026-05-17,app,"boa noite, comprei faz 9 dias e nada e o prazo de entrega já passou. pedido 33846",atraso
+1341,2026-05-18,chat,"boa noite, quero a segunda via do boleto. é urgente",pagamento
+1342,2026-05-18,chat,"boa noite, quero mudar meu endereço de cadastro. é urgente",outro
+1343,2026-05-18,chat,"por favor, vocês vendem para empresa. obrigado",outro
+1344,2026-05-18,chat,"boa tarde, quero cancelar o recebimento de e-mails?",outro
+1345,2026-05-18,chat,"olá, quero trocar o tamanho",troca
+1346,2026-05-18,email,a entrega está atrasada. obrigado,atraso
+1347,2026-05-18,app,"bom dia, o pagamento ficou pendente. pedido 18126",pagamento
+1348,2026-05-18,chat,"POR FAVOR, A TRANSPORTADORA NÃO ATUALIZA O RASTREIO. PEDIDO 92250",atraso
+1349,2026-05-18,email,"por favor, o estorno ainda nao apareceu na fatura. preciso de ajuda",pagamento
+1350,2026-05-18,email,"boa tarde, a transportadora não atualiza o rastreio",atraso
+1351,2026-05-19,chat,"olá, a transportadora não atualiza o rastreio",atraso
+1352,2026-05-19,chat,"OLA, VOCES ENTREGAM NO SABADO",outro
+1353,2026-05-19,app,O PEDIDO NÃO SAIU PARA ENTREGA. É URGENTE,atraso
+1354,2026-05-19,app,cadê meu pedido e a entrega está atrasada!!,atraso
+1355,2026-05-19,chat,"bom dia, como uso o cupom de aniversario!!",outro
+1356,2026-05-19,app,"por favor, chegou atrasado e ainda veio errado, quero trocar",troca
+1357,2026-05-19,email,"BOM DIA, O PIX NAO FOI RECONHECIDO",pagamento
+1358,2026-05-19,app,"BOA NOITE, QUAL O HORÁRIO DO ATENDIMENTO?",outro
+1359,2026-05-19,email,a caixa chegou amassada e o produto riscado. preciso de ajuda,troca
+1360,2026-05-20,chat,quero devolver o produto,troca
+1361,2026-05-20,app,o rastreio esta parado faz 8 dias. aguardo retorno,atraso
+1362,2026-05-20,app,"oi, quero cancelar o recebimento de e-mails",outro
+1363,2026-05-20,app,"bom dia, quero elogiar o atendimento. preciso de ajuda",outro
+1364,2026-05-20,app,"bom dia, o estorno ainda não apareceu na fatura!!",pagamento
+1365,2026-05-20,chat,"bom dia, o produto chegou quebrado. pedido 47929",troca
+1366,2026-05-20,email,"bom dia, quero trocar o tamanho. e urgente",troca
+1367,2026-05-20,chat,"ola, quero o reembolso da devolucao. preciso de ajuda",troca
+1368,2026-05-20,app,"boa tarde, meu pedido ainda não chegou. obrigado",atraso
+1369,2026-05-20,email,paguei no pix faz 15 dias e o pedido não chegou!!,atraso
+1370,2026-05-20,app,VEIO A COR ERRADA,troca
+1371,2026-05-20,app,"olá, a entrega está atrasada",atraso
+1372,2026-05-20,chat,"por favor, o pagamento ficou pendente. aguardo retorno",pagamento
+1373,2026-05-21,app,"olá, como faço a troca!!",troca
+1374,2026-05-21,app,"boa noite, veio a cor errada. preciso de ajuda",troca
+1375,2026-05-21,chat,"boa noite, veio a cor errada!!",troca
+1376,2026-05-21,chat,"boa tarde, cade meu pedido e era para chegar ontem. preciso de ajuda",atraso
+1377,2026-05-21,app,quero elogiar o atendimento e voces tem loja fisica. aguardo retorno,outro
+1378,2026-05-21,email,"por favor, o estorno ainda não apareceu na fatura e a compra foi recusada no cartão. preciso de ajuda",pagamento
+1379,2026-05-21,email,"oi, a transportadora nao atualiza o rastreio",atraso
+1380,2026-05-21,chat,A ENTREGA ESTÁ ATRASADA. PRECISO DE AJUDA,atraso
+1381,2026-05-21,email,"olá, a transportadora não atualiza o rastreio",atraso
+1382,2026-05-21,chat,"boa noite, cobraram duas vezes no cartão. preciso de ajuda",pagamento
+1383,2026-05-21,app,"boa tarde, o produto tem garantia. pedido 39754",outro
+1384,2026-05-22,email,"por favor, como uso o cupom de aniversário. obrigado",outro
+1385,2026-05-22,chat,veio um item diferente do que eu pedi,troca
+1386,2026-05-22,app,"por favor, quero a segunda via do boleto. obrigado",pagamento
+1387,2026-05-22,app,"olá, veio a cor errada e veio um item diferente do que eu pedi",troca
+1388,2026-05-22,app,"boa tarde, veio a cor errada. obrigado",troca
+1389,2026-05-22,app,"ola, a transportadora nao atualiza o rastreio e o rastreio esta parado faz 5 dias",atraso
+1390,2026-05-22,email,"boa tarde, voces tem loja fisica. obrigado",outro
+1391,2026-05-23,chat,"oi, voces entregam no sabado. pedido 89358",outro
+1392,2026-05-23,chat,"por favor, quero devolver o produto",troca
+1393,2026-05-23,email,quero o reembolso da devolução e quero o reembolso da devolução. preciso de ajuda,troca
+1394,2026-05-23,email,"BOA NOITE, A TRANSPORTADORA NÃO ATUALIZA O RASTREIO",atraso
+1395,2026-05-23,chat,"por favor, a caixa chegou amassada e o produto riscado e a peça não serviu. obrigado",troca
+1396,2026-05-23,chat,"boa tarde, quando meu pedido vai chegar!!",atraso
+1397,2026-05-23,chat,"por favor, paguei e o pedido continua aguardando pagamento. preciso de ajuda",pagamento
+1398,2026-05-23,chat,"por favor, o produto tem garantia. aguardo retorno",outro
+1399,2026-05-23,chat,"por favor, o rastreio esta parado faz 15 dias",atraso
+1400,2026-05-23,email,quero mudar meu endereco de cadastro,outro
+1401,2026-05-23,chat,"boa noite, não consigo pagar com cartão!!",pagamento
+1402,2026-05-23,app,"boa tarde, como faço a troca",troca
+1403,2026-05-23,email,"por favor, o produto chegou quebrado?",troca
+1404,2026-05-23,chat,"BOM DIA, PAGUEI E O PEDIDO CONTINUA AGUARDANDO PAGAMENTO. É URGENTE",pagamento
+1405,2026-05-24,chat,"BOA TARDE, O PRODUTO VEIO COM DEFEITO",troca
+1406,2026-05-24,email,"olá, qual o horário do atendimento. é urgente",outro
+1407,2026-05-24,email,O PRODUTO VEIO COM DEFEITO E A CAIXA CHEGOU AMASSADA E O PRODUTO RISCADO. PEDIDO 72430,troca
+1408,2026-05-24,chat,vocês entregam no sábado e tem esse produto em outra cor. pedido 36494,outro
+1409,2026-05-24,app,"BOA TARDE, COMPREI FAZ 14 DIAS E NADA. PEDIDO 20998",atraso
+1410,2026-05-24,email,"boa tarde, qual o horário do atendimento. é urgente",outro
+1411,2026-05-24,chat,QUERO TROCAR O TAMANHO,troca
+1412,2026-05-24,chat,"boa noite, como faço a troca e o produto veio com defeito!!",troca
+1413,2026-05-24,chat,"bom dia, a transportadora nao atualiza o rastreio. pedido 45428",atraso
+1414,2026-05-24,chat,O BOLETO VENCEU. É URGENTE,pagamento
+1415,2026-05-24,chat,a caixa chegou amassada e o produto riscado!!,troca
+1416,2026-05-24,email,"boa noite, era para chegar ontem e o pedido não saiu para entrega. obrigado",atraso
+1417,2026-05-25,app,"boa noite, quero a segunda via do boleto e cobraram duas vezes no cartão!!",pagamento
+1418,2026-05-25,app,O PIX NÃO FOI RECONHECIDO?,pagamento
+1419,2026-05-25,chat,como faco a troca!!,troca
+1420,2026-05-25,chat,"por favor, meu pedido ainda não chegou. aguardo retorno",atraso
+1421,2026-05-25,chat,"olá, quero o reembolso da devolução e quero trocar o tamanho. pedido 42693",troca
+1422,2026-05-25,email,paguei no pix faz 8 dias e o pedido não chegou. aguardo retorno,atraso
+1423,2026-05-25,email,"oi, quero cancelar o recebimento de e-mails e voces vendem para empresa. e urgente",outro
+1424,2026-05-26,email,"BOM DIA, QUERO DEVOLVER O PRODUTO?",troca
+1425,2026-05-26,app,"por favor, cadê meu pedido",atraso
+1426,2026-05-26,app,"oi, o pagamento foi aprovado mas o produto veio com defeito",troca
+1427,2026-05-26,email,a caixa chegou amassada e o produto riscado e a peça não serviu. obrigado,troca
+1428,2026-05-26,app,COMO USO O CUPOM DE ANIVERSARIO. E URGENTE,outro
+1429,2026-05-26,email,"oi, meu pedido ainda não chegou",atraso
+1430,2026-05-26,chat,"bom dia, comprei faz 2 dias e nada. obrigado",atraso
+1431,2026-05-26,email,"OLÁ, VOCÊS ENTREGAM NO SÁBADO E QUAL O HORÁRIO DO ATENDIMENTO. AGUARDO RETORNO",outro
+1432,2026-05-27,app,"boa tarde, a transportadora não atualiza o rastreio",atraso
+1433,2026-05-27,chat,"oi, o estorno ainda não apareceu na fatura",pagamento
+1434,2026-05-27,app,"boa tarde, veio um item diferente do que eu pedi e quero trocar o tamanho",troca
+1435,2026-05-27,chat,O PRAZO DE ENTREGA JÁ PASSOU. AGUARDO RETORNO,atraso
+1436,2026-05-27,chat,"BOA NOITE, O ESTORNO AINDA NÃO APARECEU NA FATURA. É URGENTE",pagamento
+1437,2026-05-27,email,QUERO TROCAR O TAMANHO!!,troca
+1438,2026-05-27,chat,veio um item diferente do que eu pedi,troca
+1439,2026-05-27,app,"boa tarde, meu pedido ainda não chegou. preciso de ajuda",atraso
+1440,2026-05-27,chat,"boa noite, o prazo de entrega já passou?",atraso
+1441,2026-05-27,chat,"BOM DIA, CADÊ MEU PEDIDO E A TRANSPORTADORA NÃO ATUALIZA O RASTREIO. AGUARDO RETORNO",atraso
+1442,2026-05-27,chat,"por favor, paguei no pix faz 2 dias e o pedido não chegou",atraso
+1443,2026-05-27,email,a peça não serviu,troca
+1444,2026-05-28,app,"oi, quero trocar a forma de pagamento do boleto para pix?",pagamento
+1445,2026-05-28,app,"olá, era para chegar ontem",atraso
+1446,2026-05-28,app,"boa tarde, o produto chegou quebrado?",troca
+1447,2026-05-28,app,O PEDIDO CHEGOU MAS COBRARAM DUAS VEZES. OBRIGADO,pagamento
+1448,2026-05-28,app,"por favor, o pedido não saiu para entrega. aguardo retorno",atraso
+1449,2026-05-28,app,"bom dia, paguei e o pedido continua aguardando pagamento. preciso de ajuda",pagamento
+1450,2026-05-28,email,"ola, o estorno ainda nao apareceu na fatura",pagamento
+1451,2026-05-28,chat,quero trocar o tamanho. obrigado,troca
+1452,2026-05-29,chat,"NÃO É SOBRE ENTREGA NEM PAGAMENTO, VOCÊS TÊM VAGA DE EMPREGO",outro
+1453,2026-05-29,email,"boa tarde, o prazo de entrega já passou?",atraso
+1454,2026-05-29,chat,"oi, vocês vendem para empresa",outro
+1455,2026-05-29,chat,o rastreio está parado faz 4 dias e o prazo de entrega já passou,atraso
+1456,2026-05-29,chat,meu pedido ainda nao chegou. e urgente,atraso
+1457,2026-05-29,chat,paguei e o pedido continua aguardando pagamento,pagamento
+1458,2026-05-29,chat,o prazo de entrega já passou?,atraso
+1459,2026-05-29,chat,"ola, como uso o cupom de aniversario",outro
+1460,2026-05-29,email,a entrega está atrasada,atraso
+1461,2026-05-30,chat,"olá, vocês têm loja física. é urgente",outro
+1462,2026-05-30,chat,"por favor, o prazo de entrega ja passou",atraso
+1463,2026-05-30,app,o rastreio está parado faz 11 dias. aguardo retorno,atraso
+1464,2026-05-30,chat,veio a cor errada!!,troca
+1465,2026-05-30,chat,"BOM DIA, QUERO DEVOLVER O PRODUTO E VEIO UM ITEM DIFERENTE DO QUE EU PEDI",troca
+1466,2026-05-30,email,"por favor, quero devolver o produto",troca
+1467,2026-05-30,app,quero o reembolso da devolução e quero devolver o produto. obrigado,troca
+1468,2026-05-31,app,"bom dia, o pix nao foi reconhecido",pagamento
+1469,2026-05-31,chat,"POR FAVOR, NÃO É SOBRE ENTREGA NEM PAGAMENTO, VOCÊS TÊM VAGA DE EMPREGO?",outro
+1470,2026-05-31,chat,"OI, COMO FACO A TROCA",troca
+1471,2026-05-31,email,"bom dia, a transportadora não atualiza o rastreio. é urgente",atraso
+1472,2026-05-31,chat,"boa tarde, o prazo de entrega já passou. é urgente",atraso
+1473,2026-05-31,chat,"por favor, o prazo de entrega já passou e o prazo de entrega já passou. é urgente",atraso
+1474,2026-05-31,chat,"BOA TARDE, QUERO TROCAR O TAMANHO",troca
+1475,2026-05-31,chat,"boa noite, meu pedido ainda nao chegou",atraso
+1476,2026-05-31,app,"olá, o rastreio está parado faz 3 dias",atraso
+1477,2026-05-31,chat,o desconto do cupom nao entrou!!,pagamento
+1478,2026-05-31,app,o produto tem garantia. é urgente,outro
+1479,2026-05-31,app,"oi, quero devolver o produto. obrigado",troca
+1480,2026-06-01,chat,"por favor, o pedido não saiu para entrega. aguardo retorno",atraso
+1481,2026-06-01,chat,"boa tarde, quando meu pedido vai chegar. obrigado",atraso
+1482,2026-06-01,chat,"olá, vocês têm loja física!!",outro
+1483,2026-06-01,app,COMO FAÇO A TROCA E QUERO O REEMBOLSO DA DEVOLUÇÃO. OBRIGADO,troca
+1484,2026-06-01,app,meu pedido ainda nao chegou,atraso
+1485,2026-06-01,app,"oi, quero cancelar o recebimento de e-mails",outro
+1486,2026-06-02,chat,"boa tarde, comprei faz 12 dias e nada?",atraso
+1487,2026-06-02,app,"boa tarde, o estorno ainda não apareceu na fatura",pagamento
+1488,2026-06-02,chat,"olá, o produto veio com defeito",troca
+1489,2026-06-02,app,"ola, o produto veio com defeito e a peca nao serviu. aguardo retorno",troca
+1490,2026-06-02,chat,veio um item diferente do que eu pedi,troca
+1491,2026-06-02,app,cobraram duas vezes no cartao. obrigado,pagamento
+1492,2026-06-02,email,"boa noite, nao e sobre entrega nem pagamento, voces tem vaga de emprego",outro
+1493,2026-06-02,app,cadê meu pedido,atraso
+1494,2026-06-02,email,"boa tarde, veio a cor errada. preciso de ajuda",troca
+1495,2026-06-02,chat,"por favor, quero elogiar o atendimento. aguardo retorno",outro
+1496,2026-06-02,chat,quando meu pedido vai chegar,atraso
+1497,2026-06-02,chat,"por favor, veio um item diferente do que eu pedi",troca
+1498,2026-06-02,chat,"oi, o pedido não saiu para entrega",atraso
+1499,2026-06-02,chat,"oi, o produto tem garantia. aguardo retorno",outro
+1500,2026-06-03,app,comprei faz 14 dias e nada e a entrega está atrasada. obrigado,atraso
+1501,2026-06-03,chat,"boa noite, a compra foi recusada no cartao e a compra foi recusada no cartao. obrigado",pagamento
+1502,2026-06-03,chat,veio um item diferente do que eu pedi!!,troca
+1503,2026-06-03,chat,"BOA NOITE, A TRANSPORTADORA NAO ATUALIZA O RASTREIO. PRECISO DE AJUDA",atraso
+1504,2026-06-03,chat,"boa noite, meu pedido ainda não chegou. preciso de ajuda",atraso
+1505,2026-06-03,chat,"oi, a peca nao serviu. obrigado",troca
+1506,2026-06-03,chat,era para chegar ontem. e urgente,atraso
+1507,2026-06-03,email,"bom dia, qual o horário do atendimento e qual o horário do atendimento?",outro
+1508,2026-06-04,email,meu pedido ainda nao chegou,atraso
+1509,2026-06-04,app,o pedido chegou mas cobraram duas vezes,pagamento
+1510,2026-06-04,app,o prazo de entrega ja passou. pedido 52122,atraso
+1511,2026-06-04,chat,"boa tarde, o produto chegou quebrado. preciso de ajuda",troca
+1512,2026-06-04,chat,"OI, VEIO UM ITEM DIFERENTE DO QUE EU PEDI",troca
+1513,2026-06-04,app,"BOA NOITE, ERA PARA CHEGAR ONTEM. AGUARDO RETORNO",atraso
+1514,2026-06-04,app,"bom dia, a peca nao serviu. aguardo retorno",troca
+1515,2026-06-04,app,"boa tarde, quero elogiar o atendimento. preciso de ajuda",outro
+1516,2026-06-04,chat,"ola, como uso o cupom de aniversario e voces entregam no sabado?",outro
+1517,2026-06-04,chat,o rastreio esta parado faz 9 dias. aguardo retorno,atraso
+1518,2026-06-04,chat,"BOA TARDE, QUERO O REEMBOLSO DA DEVOLUÇÃO. É URGENTE",troca
+1519,2026-06-04,email,o rastreio está parado faz 9 dias. obrigado,atraso
+1520,2026-06-05,chat,a transportadora não atualiza o rastreio. é urgente,atraso
+1521,2026-06-05,chat,"por favor, a entrega esta atrasada",atraso
+1522,2026-06-05,app,"ola, quando meu pedido vai chegar. e urgente",atraso
+1523,2026-06-05,chat,"bom dia, quero trocar o tamanho. pedido 14753",troca
+1524,2026-06-05,chat,cade meu pedido?,atraso
+1525,2026-06-05,chat,"oi, o estorno ainda não apareceu na fatura. é urgente",pagamento
+1526,2026-06-05,app,"boa tarde, quando meu pedido vai chegar",atraso
+1527,2026-06-05,app,"oi, não consigo pagar com cartão",pagamento
+1528,2026-06-05,chat,"oi, como faço a troca e o produto veio com defeito",troca
+1529,2026-06-05,app,"por favor, como uso o cupom de aniversário",outro
+1530,2026-06-05,chat,"OI, COMPREI FAZ 7 DIAS E NADA",atraso
+1531,2026-06-05,chat,quando meu pedido vai chegar e meu pedido ainda nao chegou,atraso
+1532,2026-06-05,chat,veio a cor errada. preciso de ajuda,troca
+1533,2026-06-05,email,"BOA TARDE, A TRANSPORTADORA NAO ATUALIZA O RASTREIO E O PRAZO DE ENTREGA JA PASSOU",atraso
+1534,2026-06-05,chat,quero o reembolso da devolução,troca
+1535,2026-06-06,email,"bom dia, veio um item diferente do que eu pedi. aguardo retorno",troca
+1536,2026-06-06,chat,"boa tarde, o prazo de entrega já passou e a transportadora não atualiza o rastreio!!",atraso
+1537,2026-06-06,app,O PRAZO DE ENTREGA JA PASSOU. PRECISO DE AJUDA,atraso
+1538,2026-06-06,chat,"boa tarde, como uso o cupom de aniversario e voces tem loja fisica",outro
+1539,2026-06-06,chat,"ola, o pedido nao saiu para entrega",atraso
+1540,2026-06-06,chat,"boa tarde, o pix não foi reconhecido",pagamento
+1541,2026-06-06,app,"boa tarde, a transportadora nao atualiza o rastreio. preciso de ajuda",atraso
+1542,2026-06-06,app,"bom dia, o rastreio esta parado faz 12 dias e a entrega esta atrasada. obrigado",atraso
+1543,2026-06-06,chat,tem esse produto em outra cor,outro
+1544,2026-06-07,app,"olá, o rastreio está parado faz 7 dias. obrigado",atraso
+1545,2026-06-07,chat,"oi, era para chegar ontem. é urgente",atraso
+1546,2026-06-07,chat,"por favor, era para chegar ontem!!",atraso
+1547,2026-06-07,chat,"oi, quero mudar meu endereço de cadastro. é urgente",outro
+1548,2026-06-07,app,"bom dia, quero mudar meu endereço de cadastro",outro
+1549,2026-06-07,chat,"oi, como faço a troca",troca
+1550,2026-06-07,chat,"ola, quero devolver o produto e como faco a troca. pedido 40467",troca
+1551,2026-06-07,app,"oi, o prazo de entrega já passou. obrigado",atraso
+1552,2026-06-07,chat,como faço a troca e o produto chegou quebrado?,troca
+1553,2026-06-08,chat,"boa noite, o produto veio com defeito?",troca
+1554,2026-06-08,email,"POR FAVOR, A ENTREGA ESTÁ ATRASADA. PEDIDO 61770",atraso
+1555,2026-06-08,chat,o produto chegou quebrado. e urgente,troca
+1556,2026-06-08,email,"bom dia, o produto chegou quebrado e quero trocar o tamanho. aguardo retorno",troca
+1557,2026-06-08,app,"ola, o pix nao foi reconhecido e o pix nao foi reconhecido",pagamento
+1558,2026-06-08,chat,veio a cor errada. preciso de ajuda,troca
+1559,2026-06-08,chat,"BOM DIA, O RASTREIO ESTA PARADO FAZ 13 DIAS. PEDIDO 43404",atraso
+1560,2026-06-08,app,"boa tarde, quando meu pedido vai chegar e meu pedido ainda nao chegou",atraso
+1561,2026-06-08,chat,"oi, o produto chegou quebrado e o produto veio com defeito. pedido 12308",troca
+1562,2026-06-09,app,"boa tarde, quero o reembolso da devolução",troca
+1563,2026-06-09,app,"ola, comprei faz 10 dias e nada e o prazo de entrega ja passou. preciso de ajuda",atraso
+1564,2026-06-09,app,"boa noite, quero trocar o tamanho!!",troca
+1565,2026-06-09,chat,"OLÁ, COMO FAÇO A TROCA. É URGENTE",troca
+1566,2026-06-09,chat,"ola, o pedido nao saiu para entrega",atraso
+1567,2026-06-09,app,A ENTREGA ESTA ATRASADA E A ENTREGA ESTA ATRASADA,atraso
+1568,2026-06-09,chat,"bom dia, a caixa chegou amassada e o produto riscado e a peça não serviu",troca
+1569,2026-06-10,chat,"OLA, A PECA NAO SERVIU",troca
+1570,2026-06-10,chat,como uso o cupom de aniversário,outro
+1571,2026-06-10,chat,COMO FAÇO A TROCA E VEIO UM ITEM DIFERENTE DO QUE EU PEDI. OBRIGADO,troca
+1572,2026-06-10,app,"oi, o produto veio com defeito e quero o reembolso da devolução. aguardo retorno",troca
+1573,2026-06-10,chat,"oi, quando meu pedido vai chegar. pedido 86620",atraso
+1574,2026-06-10,email,"BOM DIA, O DESCONTO DO CUPOM NÃO ENTROU E COBRARAM DUAS VEZES NO CARTÃO",pagamento
+1575,2026-06-10,chat,"por favor, era para chegar ontem. preciso de ajuda",atraso
+1576,2026-06-10,chat,"POR FAVOR, A TRANSPORTADORA NÃO ATUALIZA O RASTREIO E MEU PEDIDO AINDA NÃO CHEGOU. PRECISO DE AJUDA",atraso
+1577,2026-06-10,chat,"bom dia, o pix nao foi reconhecido e a compra foi recusada no cartao",pagamento
+1578,2026-06-10,app,"por favor, o pagamento foi aprovado mas o produto veio com defeito",troca
+1579,2026-06-11,email,"boa tarde, como faco a troca. pedido 97220",troca
+1580,2026-06-11,email,"bom dia, o desconto do cupom nao entrou e o boleto venceu",pagamento
+1581,2026-06-11,app,O DESCONTO DO CUPOM NÃO ENTROU. OBRIGADO,pagamento
+1582,2026-06-11,email,a caixa chegou amassada e o produto riscado. aguardo retorno,troca
+1583,2026-06-11,email,"oi, quero devolver o produto. pedido 25162",troca
+1584,2026-06-11,chat,VEIO A COR ERRADA!!,troca
+1585,2026-06-11,app,"oi, a entrega esta atrasada e quando meu pedido vai chegar. preciso de ajuda",atraso
+1586,2026-06-11,chat,comprei faz 3 dias e nada!!,atraso
+1587,2026-06-11,chat,o pedido não saiu para entrega?,atraso
+1588,2026-06-11,chat,"olá, era para chegar ontem e meu pedido ainda não chegou. é urgente",atraso
+1589,2026-06-11,app,"boa noite, o produto veio com defeito e a caixa chegou amassada e o produto riscado. preciso de ajuda",troca
+1590,2026-06-11,email,"boa noite, a transportadora não atualiza o rastreio",atraso
+1591,2026-06-11,app,"boa noite, o produto veio com defeito e o produto chegou quebrado. pedido 35845",troca
+1592,2026-06-11,email,"OI, COBRARAM DUAS VEZES NO CARTAO",pagamento
+1593,2026-06-11,email,o boleto venceu?,pagamento
+1594,2026-06-11,app,"olá, como faço a troca e quero o reembolso da devolução. pedido 26014",troca
+1595,2026-06-11,app,meu pedido ainda não chegou,atraso
+1596,2026-06-11,app,"bom dia, o pix não foi reconhecido. pedido 27651",pagamento
+1597,2026-06-11,app,"boa noite, o pedido não saiu para entrega. obrigado",atraso
+1598,2026-06-12,chat,quero a segunda via do boleto,pagamento
+1599,2026-06-12,chat,"boa noite, meu pedido ainda nao chegou e o pedido nao saiu para entrega. preciso de ajuda",atraso
+1600,2026-06-12,app,VEIO UM ITEM DIFERENTE DO QUE EU PEDI. PEDIDO 59834,troca
+1601,2026-06-12,email,"por favor, não é sobre entrega nem pagamento, vocês têm vaga de emprego. preciso de ajuda",outro
+1602,2026-06-12,chat,"boa noite, quero o reembolso da devolução?",troca
+1603,2026-06-12,chat,quando meu pedido vai chegar,atraso
+1604,2026-06-12,chat,"oi, quero devolver o produto e veio a cor errada. aguardo retorno",troca
+1605,2026-06-12,app,"boa tarde, o pedido não saiu para entrega",atraso
+1606,2026-06-12,email,o rastreio está parado faz 10 dias!!,atraso
+1607,2026-06-12,app,"BOA TARDE, NÃO CONSIGO PAGAR COM CARTÃO. É URGENTE",pagamento
+1608,2026-06-13,app,"por favor, era para chegar ontem. obrigado",atraso
+1609,2026-06-13,email,"por favor, veio a cor errada!!",troca
+1610,2026-06-13,email,"boa tarde, veio a cor errada e como faço a troca. é urgente",troca
+1611,2026-06-13,chat,"por favor, a transportadora não atualiza o rastreio. aguardo retorno",atraso
+1612,2026-06-13,app,"oi, o boleto venceu e paguei e o pedido continua aguardando pagamento",pagamento
+1613,2026-06-13,chat,"bom dia, vocês vendem para empresa!!",outro
+1614,2026-06-13,app,"boa tarde, quero mudar meu endereco de cadastro. aguardo retorno",outro
+1615,2026-06-13,app,"ola, era para chegar ontem",atraso
+1616,2026-06-13,email,"bom dia, não consigo pagar com cartão. obrigado",pagamento
+1617,2026-06-13,email,"boa noite, quero devolver o produto e veio um item diferente do que eu pedi",troca
+1618,2026-06-13,app,"olá, comprei faz 3 dias e nada. obrigado",atraso
+1619,2026-06-14,chat,"boa tarde, comprei faz 12 dias e nada. preciso de ajuda",atraso
+1620,2026-06-14,chat,"olá, veio um item diferente do que eu pedi!!",troca
+1621,2026-06-14,chat,"bom dia, o produto tem garantia e vocês entregam no sábado. obrigado",outro
+1622,2026-06-14,email,"BOA TARDE, O RASTREIO ESTÁ PARADO FAZ 14 DIAS. OBRIGADO",atraso
+1623,2026-06-14,email,"oi, meu pedido ainda não chegou. obrigado",atraso
+1624,2026-06-14,app,"OI, COBRARAM DUAS VEZES NO CARTÃO. PRECISO DE AJUDA",pagamento
+1625,2026-06-14,chat,"olá, a transportadora não atualiza o rastreio. aguardo retorno",atraso
+1626,2026-06-14,chat,"BOM DIA, QUERO O REEMBOLSO DA DEVOLUÇÃO E O PRODUTO CHEGOU QUEBRADO",troca
+1627,2026-06-14,chat,"BOA TARDE, A TRANSPORTADORA NÃO ATUALIZA O RASTREIO E O PRAZO DE ENTREGA JÁ PASSOU. É URGENTE",atraso
+1628,2026-06-14,app,paguei no pix faz 7 dias e o pedido não chegou,atraso
+1629,2026-06-14,app,"oi, tem esse produto em outra cor. preciso de ajuda",outro
+1630,2026-06-14,chat,"BOM DIA, O PRODUTO CHEGOU QUEBRADO E COMO FAÇO A TROCA?",troca
+1631,2026-06-15,chat,"bom dia, a caixa chegou amassada e o produto riscado",troca
+1632,2026-06-15,app,"boa tarde, a transportadora nao atualiza o rastreio. aguardo retorno",atraso
+1633,2026-06-15,chat,"olá, comprei faz 6 dias e nada. é urgente",atraso
+1634,2026-06-15,chat,qual o horário do atendimento e vocês vendem para empresa!!,outro
+1635,2026-06-15,chat,"ola, o produto veio com defeito. e urgente",troca
+1636,2026-06-15,email,"por favor, como faco a troca. pedido 26136",troca
+1637,2026-06-15,email,"oi, comprei faz 4 dias e nada",atraso
+1638,2026-06-16,app,"boa tarde, o produto veio com defeito?",troca
+1639,2026-06-16,chat,"POR FAVOR, O PRODUTO TEM GARANTIA. PRECISO DE AJUDA",outro
+1640,2026-06-16,chat,"boa tarde, meu pedido ainda não chegou. aguardo retorno",atraso
+1641,2026-06-16,app,"olá, cadê meu pedido. obrigado",atraso
+1642,2026-06-16,chat,"BOA TARDE, QUANDO MEU PEDIDO VAI CHEGAR. PRECISO DE AJUDA",atraso
+1643,2026-06-16,chat,quando meu pedido vai chegar e era para chegar ontem,atraso
+1644,2026-06-16,app,"bom dia, quero trocar o tamanho?",troca
+1645,2026-06-16,app,"bom dia, a caixa chegou amassada e o produto riscado",troca
+1646,2026-06-16,chat,QUANDO MEU PEDIDO VAI CHEGAR. PEDIDO 55769,atraso
+1647,2026-06-17,email,não consigo pagar com cartão!!,pagamento
+1648,2026-06-17,app,era para chegar ontem?,atraso
+1649,2026-06-17,email,"bom dia, o prazo de entrega já passou",atraso
+1650,2026-06-17,email,"ola, o produto veio com defeito",troca
+1651,2026-06-17,email,"boa tarde, o desconto do cupom nao entrou e o desconto do cupom nao entrou. aguardo retorno",pagamento
+1652,2026-06-17,email,"boa noite, como uso o cupom de aniversário. pedido 50326",outro
+1653,2026-06-17,email,"boa tarde, não quero trocar nada, só saber quando chega!!",atraso
+1654,2026-06-17,app,"bom dia, o produto chegou quebrado. aguardo retorno",troca
+1655,2026-06-17,chat,"boa noite, quando meu pedido vai chegar",atraso
+1656,2026-06-17,app,QUERO TROCAR O TAMANHO,troca
+1657,2026-06-17,chat,"olá, o produto veio com defeito",troca
+1658,2026-06-17,chat,"boa tarde, nao quero trocar nada, so saber quando chega!!",atraso
+1659,2026-06-17,chat,"olá, a transportadora não atualiza o rastreio e o rastreio está parado faz 3 dias?",atraso
+1660,2026-06-18,app,"oi, veio a cor errada",troca
+1661,2026-06-18,chat,"por favor, quero elogiar o atendimento e tem esse produto em outra cor. preciso de ajuda",outro
+1662,2026-06-18,app,O RASTREIO ESTÁ PARADO FAZ 11 DIAS!!,atraso
+1663,2026-06-18,email,"bom dia, era para chegar ontem e quando meu pedido vai chegar",atraso
+1664,2026-06-18,chat,"boa noite, cobraram duas vezes no cartão",pagamento
+1665,2026-06-18,chat,"boa noite, quero mudar meu endereço de cadastro. obrigado",outro
+1666,2026-06-18,chat,"olá, não consigo pagar com cartão. obrigado",pagamento
+1667,2026-06-18,chat,"por favor, quero o reembolso da devolucao e como faco a troca",troca
+1668,2026-06-19,app,"boa tarde, meu pedido ainda não chegou!!",atraso
+1669,2026-06-19,email,"por favor, o produto chegou quebrado",troca
+1670,2026-06-19,app,"por favor, a entrega está atrasada e cadê meu pedido",atraso
+1671,2026-06-19,app,"boa noite, quero trocar o tamanho e como faço a troca",troca
+1672,2026-06-19,chat,"OLÁ, TEM ESSE PRODUTO EM OUTRA COR E O PRODUTO TEM GARANTIA. AGUARDO RETORNO",outro
+1673,2026-06-20,chat,"por favor, a entrega esta atrasada e meu pedido ainda nao chegou. pedido 14424",atraso
+1674,2026-06-20,app,quero trocar a forma de pagamento do boleto para pix. e urgente,pagamento
+1675,2026-06-20,chat,"boa tarde, a transportadora não atualiza o rastreio. pedido 16569",atraso
+1676,2026-06-20,app,"boa noite, não consigo pagar com cartão e não consigo pagar com cartão",pagamento
+1677,2026-06-20,chat,"bom dia, a peca nao serviu?",troca
+1678,2026-06-20,chat,O PEDIDO NAO SAIU PARA ENTREGA,atraso
+1679,2026-06-20,chat,"por favor, quero o reembolso da devolução. aguardo retorno",troca
+1680,2026-06-20,email,"bom dia, o pix nao foi reconhecido e a compra foi recusada no cartao",pagamento
+1681,2026-06-20,email,"boa tarde, quando meu pedido vai chegar",atraso
+1682,2026-06-20,chat,"bom dia, vocês vendem para empresa e vocês têm loja física",outro
+1683,2026-06-20,chat,"oi, quando meu pedido vai chegar. preciso de ajuda",atraso
+1684,2026-06-21,chat,"bom dia, o rastreio está parado faz 11 dias",atraso
+1685,2026-06-21,chat,"oi, o rastreio esta parado faz 8 dias. aguardo retorno",atraso
+1686,2026-06-21,app,como faço a troca. é urgente,troca
+1687,2026-06-21,app,"boa tarde, a compra foi recusada no cartão",pagamento
+1688,2026-06-21,email,o prazo de entrega já passou?,atraso
+1689,2026-06-21,chat,o pedido chegou mas cobraram duas vezes. pedido 60409,pagamento
+1690,2026-06-21,chat,"boa tarde, a entrega está atrasada. obrigado",atraso
+1691,2026-06-21,chat,o produto veio com defeito. e urgente,troca
+1692,2026-06-21,chat,tem esse produto em outra cor,outro
+1693,2026-06-21,email,"oi, o produto tem garantia. preciso de ajuda",outro
+1694,2026-06-22,chat,"boa noite, quero devolver o produto. pedido 15413",troca
+1695,2026-06-22,email,"BOA TARDE, A PEÇA NÃO SERVIU. PRECISO DE AJUDA",troca
+1696,2026-06-22,chat,"OI, QUERO A SEGUNDA VIA DO BOLETO E O PIX NÃO FOI RECONHECIDO. AGUARDO RETORNO",pagamento
+1697,2026-06-22,email,"oi, quero devolver o produto e o produto veio com defeito. pedido 31257",troca
+1698,2026-06-22,email,"boa tarde, a entrega esta atrasada",atraso
+1699,2026-06-22,app,"por favor, cade meu pedido e o pedido nao saiu para entrega. obrigado",atraso
+1700,2026-06-22,chat,"olá, meu pedido ainda não chegou",atraso
+1701,2026-06-22,chat,QUERO O REEMBOLSO DA DEVOLUÇÃO,troca
+1702,2026-06-22,app,"olá, o pedido não saiu para entrega",atraso
+1703,2026-06-22,chat,"boa noite, o prazo de entrega já passou. preciso de ajuda",atraso
+1704,2026-06-22,chat,"olá, paguei no pix faz 12 dias e o pedido não chegou. aguardo retorno",atraso
+1705,2026-06-23,email,"olá, a entrega está atrasada. é urgente",atraso
+1706,2026-06-23,email,"boa tarde, o estorno ainda não apareceu na fatura. pedido 45050",pagamento
+1707,2026-06-23,chat,"por favor, era para chegar ontem",atraso
+1708,2026-06-23,chat,qual o horário do atendimento. pedido 33209,outro
+1709,2026-06-23,chat,"OLÁ, O PRAZO DE ENTREGA JÁ PASSOU. É URGENTE",atraso
+1710,2026-06-23,chat,"oi, quero trocar o tamanho e quero trocar o tamanho. pedido 51708",troca
+1711,2026-06-23,chat,"por favor, quando meu pedido vai chegar",atraso
+1712,2026-06-23,chat,QUERO TROCAR O TAMANHO,troca
+1713,2026-06-23,email,"boa tarde, quero a segunda via do boleto e o estorno ainda não apareceu na fatura",pagamento
+1714,2026-06-23,chat,"boa noite, não quero trocar nada, só saber quando chega",atraso
+1715,2026-06-23,chat,O RASTREIO ESTA PARADO FAZ 15 DIAS. E URGENTE,atraso
+1716,2026-06-24,chat,"por favor, chegou atrasado e ainda veio errado, quero trocar. pedido 10317",troca
+1717,2026-06-24,chat,"OLÁ, O ESTORNO AINDA NÃO APARECEU NA FATURA E O BOLETO VENCEU. PEDIDO 62960",pagamento
+1718,2026-06-24,chat,"bom dia, veio a cor errada e a peca nao serviu. aguardo retorno",troca
+1719,2026-06-24,chat,comprei faz 8 dias e nada?,atraso
+1720,2026-06-24,chat,"por favor, qual o horario do atendimento. obrigado",outro
+1721,2026-06-24,app,"por favor, quando meu pedido vai chegar",atraso
+1722,2026-06-24,email,a transportadora não atualiza o rastreio e era para chegar ontem!!,atraso
+1723,2026-06-24,app,"bom dia, quero o reembolso da devolução",troca
+1724,2026-06-24,chat,"por favor, cadê meu pedido e o pedido não saiu para entrega",atraso
+1725,2026-06-24,chat,"bom dia, quero a segunda via do boleto",pagamento
+1726,2026-06-24,app,comprei faz 2 dias e nada e quando meu pedido vai chegar,atraso
+1727,2026-06-24,app,"boa noite, o desconto do cupom não entrou",pagamento
+1728,2026-06-24,chat,"olá, não é sobre entrega nem pagamento, vocês têm vaga de emprego",outro
+1729,2026-06-25,app,"BOM DIA, COMO USO O CUPOM DE ANIVERSÁRIO. PEDIDO 13078",outro
+1730,2026-06-25,chat,"boa tarde, era para chegar ontem?",atraso
+1731,2026-06-25,email,"ola, meu pedido ainda nao chegou",atraso
+1732,2026-06-25,app,quero cancelar o recebimento de e-mails. é urgente,outro
+1733,2026-06-25,chat,"por favor, quero trocar a forma de pagamento do boleto para pix. pedido 61854",pagamento
+1734,2026-06-25,app,"bom dia, o prazo de entrega já passou e era para chegar ontem",atraso
+1735,2026-06-25,chat,"boa noite, paguei no pix faz 13 dias e o pedido não chegou. é urgente",atraso
+1736,2026-06-25,chat,quando meu pedido vai chegar,atraso
+1737,2026-06-25,chat,"boa tarde, qual o horario do atendimento e voces vendem para empresa",outro
+1738,2026-06-25,chat,"bom dia, quero elogiar o atendimento. preciso de ajuda",outro
+1739,2026-06-25,chat,"boa tarde, paguei no pix faz 5 dias e o pedido nao chegou",atraso
+1740,2026-06-25,chat,"boa noite, tem esse produto em outra cor",outro
+1741,2026-06-25,chat,"OLÁ, VOCÊS VENDEM PARA EMPRESA?",outro
+1742,2026-06-25,chat,"bom dia, veio um item diferente do que eu pedi. obrigado",troca
+1743,2026-06-26,app,"ola, o pedido nao saiu para entrega. obrigado",atraso
+1744,2026-06-26,email,"ola, cade meu pedido. pedido 65823",atraso
+1745,2026-06-26,chat,"olá, como faço a troca. pedido 25398",troca
+1746,2026-06-26,chat,"boa noite, cade meu pedido. pedido 58727",atraso
+1747,2026-06-26,email,"boa noite, o pedido nao saiu para entrega. obrigado",atraso
+1748,2026-06-26,email,"BOA TARDE, O PRAZO DE ENTREGA JÁ PASSOU E COMPREI FAZ 4 DIAS E NADA. AGUARDO RETORNO",atraso
+1749,2026-06-27,chat,"OI, A PECA NAO SERVIU E A CAIXA CHEGOU AMASSADA E O PRODUTO RISCADO",troca
+1750,2026-06-27,app,a transportadora não atualiza o rastreio. obrigado,atraso
+1751,2026-06-27,chat,"boa noite, o boleto venceu!!",pagamento
+1752,2026-06-27,app,"oi, o produto veio com defeito. pedido 27404",troca
+1753,2026-06-27,email,"oi, chegou atrasado e ainda veio errado, quero trocar?",troca
+1754,2026-06-27,chat,"por favor, cade meu pedido e meu pedido ainda nao chegou",atraso
+1755,2026-06-27,email,"boa noite, quero o reembolso da devolução",troca
+1756,2026-06-27,app,"oi, quero o reembolso da devolução e veio um item diferente do que eu pedi. aguardo retorno",troca
+1757,2026-06-27,chat,"boa tarde, o produto chegou quebrado. obrigado",troca
+1758,2026-06-27,app,a peça não serviu. é urgente,troca
+1759,2026-06-27,app,"oi, qual o horário do atendimento",outro
+1760,2026-06-27,chat,"boa noite, o prazo de entrega já passou e quando meu pedido vai chegar!!",atraso
+1761,2026-06-27,app,"oi, o estorno ainda não apareceu na fatura. pedido 62647",pagamento
+1762,2026-06-27,chat,"boa tarde, o pedido chegou mas cobraram duas vezes. obrigado",pagamento
+1763,2026-06-28,email,vocês entregam no sábado,outro
+1764,2026-06-28,app,como faço a troca. aguardo retorno,troca
+1765,2026-06-28,app,"POR FAVOR, O BOLETO VENCEU E O ESTORNO AINDA NAO APARECEU NA FATURA",pagamento
+1766,2026-06-28,chat,"boa noite, a entrega esta atrasada!!",atraso
+1767,2026-06-28,email,"boa noite, quero trocar o tamanho. obrigado",troca
+1768,2026-06-28,app,comprei faz 13 dias e nada,atraso
+1769,2026-06-28,chat,comprei faz 10 dias e nada. pedido 50190,atraso
+1770,2026-06-28,email,"por favor, comprei faz 9 dias e nada. é urgente",atraso
+1771,2026-06-28,app,tem esse produto em outra cor. aguardo retorno,outro
+1772,2026-06-29,app,"por favor, quero trocar o tamanho. pedido 47343",troca
+1773,2026-06-29,chat,"bom dia, vocês têm loja física e quero cancelar o recebimento de e-mails",outro
+1774,2026-06-29,app,"por favor, quero a segunda via do boleto. obrigado",pagamento
+1775,2026-06-29,chat,"olá, o rastreio está parado faz 6 dias",atraso
+1776,2026-06-29,app,"boa noite, o desconto do cupom nao entrou. pedido 87653",pagamento
+1777,2026-06-29,chat,quero devolver o produto,troca
+1778,2026-06-29,email,"oi, cadê meu pedido e a transportadora não atualiza o rastreio. é urgente",atraso
+1779,2026-06-29,chat,"por favor, o desconto do cupom nao entrou!!",pagamento
+1780,2026-06-29,email,"olá, quero mudar meu endereço de cadastro. preciso de ajuda",outro
+1781,2026-06-29,email,"bom dia, tem esse produto em outra cor",outro
+1782,2026-06-29,chat,"por favor, comprei faz 6 dias e nada e o pedido não saiu para entrega. preciso de ajuda",atraso
+1783,2026-06-29,email,"por favor, a caixa chegou amassada e o produto riscado. pedido 93048",troca
+1784,2026-06-29,email,como faço a troca?,troca
+1785,2026-06-29,app,"bom dia, não consigo pagar com cartão e cobraram duas vezes no cartão",pagamento
+1786,2026-06-30,chat,"boa noite, chegou atrasado e ainda veio errado, quero trocar. obrigado",troca
+1787,2026-06-30,app,"boa noite, o desconto do cupom não entrou",pagamento
+1788,2026-06-30,chat,"olá, era para chegar ontem e o rastreio está parado faz 11 dias!!",atraso
+1789,2026-06-30,chat,O PAGAMENTO FOI APROVADO MAS O PRODUTO VEIO COM DEFEITO. É URGENTE,troca
+1790,2026-06-30,app,"POR FAVOR, A PEÇA NÃO SERVIU",troca
+1791,2026-06-30,app,não consigo pagar com cartão?,pagamento
+1792,2026-06-30,app,"OI, QUERO TROCAR O TAMANHO. PRECISO DE AJUDA",troca
+1793,2026-06-30,chat,"olá, quero devolver o produto",troca
+1794,2026-06-30,chat,o rastreio está parado faz 12 dias. aguardo retorno,atraso
+1795,2026-06-30,email,o pedido chegou mas cobraram duas vezes. é urgente,pagamento
+1796,2026-06-30,app,"OLÁ, QUERO CANCELAR O RECEBIMENTO DE E-MAILS E COMO USO O CUPOM DE ANIVERSÁRIO",outro
+1797,2026-06-30,app,"boa noite, como uso o cupom de aniversário. obrigado",outro
+1798,2026-06-30,app,"olá, o prazo de entrega já passou",atraso
+1799,2026-06-30,email,"por favor, quero a segunda via do boleto?",pagamento
+1800,2026-06-30,app,"boa noite, quando meu pedido vai chegar. é urgente",atraso
