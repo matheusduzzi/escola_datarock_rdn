@@ -70,3 +70,12 @@ As fotos do Fashion MNIST não fazem parte do kit. Elas são da Zalando SE, sob 
 | Pasta | Aula |
 |---|---|
 | [00-apresentacao/](00-apresentacao/) | Apresentação |
+| [04-adam-dropout-e-penalizacao/](04-adam-dropout-e-penalizacao/) | Adam, dropout e penalização |
+| [05-treinar-e-diagnosticar/](05-treinar-e-diagnosticar/) | Treinar e diagnosticar |
+| [06-convolucao-e-dimensoes/](06-convolucao-e-dimensoes/) | Convolução e dimensões |
+| [07-alexnet-vgg-e-resnet/](07-alexnet-vgg-e-resnet/) | AlexNet, VGG e ResNet |
+| [10-transferencia-na-pratica/](10-transferencia-na-pratica/) | Transferência na prática |
+| [11-rnn-lstm-e-gru/](11-rnn-lstm-e-gru/) | RNN, LSTM e GRU |
+| [15-atencao-q-k-v/](15-atencao-q-k-v/) | Atenção Q/K/V |
+| [16-transformer-e-tokenizacao/](16-transformer-e-tokenizacao/) | Transformer e tokenização |
+| [17-bert-e-gpt-2-em-texto-ficticio/](17-bert-e-gpt-2-em-texto-ficticio/) | BERT e GPT-2 em texto fictício |

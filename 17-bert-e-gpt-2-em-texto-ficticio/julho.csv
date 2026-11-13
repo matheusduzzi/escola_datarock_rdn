@@ -1,0 +1,41 @@
+id,data,texto,assunto
+1,2026-07-01,minha encomenda não veio até hoje,atraso
+2,2026-07-01,o pedido está parado na transportadora faz uma semana,atraso
+3,2026-07-01,o motoboy não apareceu,atraso
+4,2026-07-01,comprei na segunda e até agora nada,atraso
+5,2026-07-02,já faz dez dias que espero o pedido,atraso
+6,2026-07-02,a entrega era para sexta e não chegou,atraso
+7,2026-07-02,não recebi meu pedido,atraso
+8,2026-07-03,o rastreio diz entregue mas não recebi nada,atraso
+9,2026-07-03,quando sai o meu pedido?,atraso
+10,2026-07-03,paguei o frete expresso e o pedido ainda não chegou,atraso
+11,2026-07-01,"a camisa ficou apertada, posso mandar de volta?",troca
+12,2026-07-01,o tênis veio apertado,troca
+13,2026-07-02,recebi o produto errado,troca
+14,2026-07-02,quero trocar por um número maior,troca
+15,2026-07-02,chegou faltando uma peça,troca
+16,2026-07-03,o produto chegou mas não funciona,troca
+17,2026-07-03,"quero devolver, me arrependi da compra",troca
+18,2026-07-04,a etiqueta veio com o tamanho errado,troca
+19,2026-07-04,como faço para devolver pelo correio,troca
+20,2026-07-04,o liquidificador parou depois de dois dias,troca
+21,2026-07-01,fui cobrado no cartão e o pedido foi cancelado,pagamento
+22,2026-07-01,o pix saiu da minha conta e o pedido não foi confirmado,pagamento
+23,2026-07-02,o site não aceita meu cartão,pagamento
+24,2026-07-02,o boleto não abre,pagamento
+25,2026-07-03,cadê o estorno da compra cancelada,pagamento
+26,2026-07-03,quero parcelar em mais vezes,pagamento
+27,2026-07-03,o cupom deu erro na hora de pagar,pagamento
+28,2026-07-04,a cobrança veio em dobro,pagamento
+29,2026-07-04,o valor cobrado foi maior que o anunciado,pagamento
+30,2026-07-04,paguei e o pedido não saiu do aguardando pagamento,pagamento
+31,2026-07-01,vocês aceitam pix?,outro
+32,2026-07-01,a nota fiscal não veio,outro
+33,2026-07-02,quero falar com um atendente,outro
+34,2026-07-02,vocês entregam em Portugal?,outro
+35,2026-07-02,tem cupom para primeira compra?,outro
+36,2026-07-03,como troco a senha da minha conta,outro
+37,2026-07-03,o app fecha sozinho,outro
+38,2026-07-04,vocês têm trabalho temporário,outro
+39,2026-07-04,qual o telefone da loja,outro
+40,2026-07-04,quero excluir meu cadastro,outro
